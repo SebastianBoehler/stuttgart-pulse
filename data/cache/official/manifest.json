@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-03-08T11:05:36.479Z",
+  "dateRange": {
+    "from": "2026-02-06",
+    "to": "2026-03-08"
+  },
+  "counts": {
+    "districts": 23,
+    "stations": 5,
+    "measurements": 6480,
+    "mobilityEvents": 38,
+    "parkingSites": 150,
+    "transitStops": 1213
+  },
+  "sources": {
+    "districts": "https://www.stuttgart.de/medien/ibs/OpenData-KLGL-Generalsisiert.zip",
+    "airQualityStations": "https://www.umweltbundesamt.de/api/air_data/v3/stations/json",
+    "airQualityMeasures": "https://www.umweltbundesamt.de/api/air_data/v3/measures/json",
+    "mobility": "https://geoserver.stuttgart.de/gdc/Verkehr_Mobilitaet/ows",
+    "parking": "https://api.mobidata-bw.de/park-api/api/public/v3/parking-sites",
+    "transitStops": "https://api.mobidata-bw.de/gtfs/stops"
+  }
+}

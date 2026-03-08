@@ -6,21 +6,47 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "ingest:uba": "tsx scripts/ingest/fetch-uba-air-quality.ts",
+    "ingest:official": "tsx scripts/ingest/sync-official.ts",
+    "ingest:community": "tsx scripts/ingest/sync-community.ts",
+    "ingest:all": "npm run ingest:official && npm run ingest:community",
+    "qa:visual": "bash scripts/qa/playwright-theme-screenshots.sh"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.2.4",
+    "@turf/boolean-point-in-polygon": "^7.3.4",
+    "@turf/helpers": "^7.3.4",
+    "adm-zip": "^0.5.16",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.577.0",
     "next": "16.1.6",
+    "next-themes": "^0.4.6",
+    "proj4": "^2.20.4",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-leaflet": "^5.0.0",
+    "recharts": "^3.8.0",
+    "sql.js": "^1.14.1",
+    "tailwind-merge": "^3.5.0",
+    "wkx": "^0.5.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/adm-zip": "^0.5.7",
+    "@types/geojson": "^7946.0.16",
+    "@types/leaflet": "^1.9.21",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/sql.js": "^1.4.9",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

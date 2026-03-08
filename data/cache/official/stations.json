@@ -1,0 +1,42 @@
+[
+  {
+    "id": "224",
+    "name": "Stuttgart-Bad Cannstatt",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.8088,
+    "longitude": 9.2297,
+    "source": "Umweltbundesamt API v3"
+  },
+  {
+    "id": "300",
+    "name": "Stuttgart Arnulf-Klett-Platz",
+    "districtId": "mitte",
+    "latitude": 48.7831,
+    "longitude": 9.1807,
+    "source": "Umweltbundesamt API v3"
+  },
+  {
+    "id": "317",
+    "name": "Stuttgart Hohenheimer Straße",
+    "districtId": "mitte",
+    "latitude": 48.7687,
+    "longitude": 9.1845,
+    "source": "Umweltbundesamt API v3"
+  },
+  {
+    "id": "319",
+    "name": "Stuttgart Am Neckartor",
+    "districtId": "mitte",
+    "latitude": 48.7881,
+    "longitude": 9.191,
+    "source": "Umweltbundesamt API v3"
+  },
+  {
+    "id": "10470",
+    "name": "Stuttgart Hauptstätter Straße",
+    "districtId": "sued",
+    "latitude": 48.7662,
+    "longitude": 9.1709,
+    "source": "Umweltbundesamt API v3"
+  }
+]

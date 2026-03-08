@@ -1,0 +1,193 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f5f1e8;
+  --foreground: #171717;
+  --card: rgba(255, 252, 245, 0.9);
+  --card-strong: #fffdf7;
+  --muted: #55564f;
+  --line: rgba(23, 23, 23, 0.14);
+  --accent: #1f6f63;
+  --accent-soft: #d2ebe4;
+  --accent-strong: #0b3f38;
+  --amber: #cf7a2d;
+  --rose: #b64d5d;
+  --sky: #4d85b8;
+  --surface-soft: rgba(255, 255, 255, 0.84);
+  --surface-warm: #f7efe1;
+  --surface-inverse: #17332f;
+  --surface-inverse-foreground: #ffffff;
+  --hero-gradient-start: #17332f;
+  --hero-gradient-end: #1f6f63;
+  --badge-soft-bg: #f0e3d0;
+  --badge-soft-fg: #7b4d22;
+  --map-grid: rgba(23, 23, 23, 0.035);
+  --tooltip-bg: rgba(255, 252, 245, 0.96);
+  --tooltip-border: rgba(23, 23, 23, 0.12);
+  --chart-grid: rgba(23, 23, 23, 0.12);
+  --selection: rgba(31, 111, 99, 0.18);
+  --shadow: 0 20px 60px rgba(23, 23, 23, 0.08);
+}
+
+.dark {
+  --background: #101516;
+  --foreground: #edf2ef;
+  --card: rgba(16, 25, 26, 0.88);
+  --card-strong: #172123;
+  --muted: #bac8c3;
+  --line: rgba(237, 242, 239, 0.14);
+  --accent: #6ec2af;
+  --accent-soft: rgba(110, 194, 175, 0.15);
+  --accent-strong: #c8fff1;
+  --amber: #efb36d;
+  --rose: #e27c92;
+  --sky: #77a9d8;
+  --surface-soft: rgba(24, 34, 36, 0.96);
+  --surface-warm: #1a2426;
+  --surface-inverse: #0b1112;
+  --surface-inverse-foreground: #f7fbf8;
+  --hero-gradient-start: #102124;
+  --hero-gradient-end: #1d5d56;
+  --badge-soft-bg: rgba(239, 179, 109, 0.14);
+  --badge-soft-fg: #f3cfa2;
+  --map-grid: rgba(237, 242, 239, 0.04);
+  --tooltip-bg: rgba(22, 31, 33, 0.96);
+  --tooltip-border: rgba(237, 242, 239, 0.12);
+  --chart-grid: rgba(237, 242, 239, 0.14);
+  --selection: rgba(110, 194, 175, 0.22);
+  --shadow: 0 20px 60px rgba(0, 0, 0, 0.28);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-strong: var(--card-strong);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-strong: var(--accent-strong);
+  --color-amber: var(--amber);
+  --color-rose: var(--rose);
+  --color-sky: var(--sky);
+  --color-surface-soft: var(--surface-soft);
+  --color-surface-warm: var(--surface-warm);
+  --color-surface-inverse: var(--surface-inverse);
+  --color-surface-inverse-foreground: var(--surface-inverse-foreground);
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, color-mix(in srgb, var(--accent) 16%, transparent), transparent 28%),
+    radial-gradient(circle at top right, color-mix(in srgb, var(--amber) 16%, transparent), transparent 24%),
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--background) 80%, white 20%) 0%,
+      color-mix(in srgb, var(--background) 92%, #e7ddcc 8%) 55%,
+      var(--background) 100%
+    );
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  transition:
+    background-color 180ms ease,
+    color 180ms ease;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::selection {
+  background: var(--selection);
+}
+
+.app-shell {
+  position: relative;
+}
+
+.app-shell::before {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image:
+    linear-gradient(var(--map-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--map-grid) 1px, transparent 1px);
+  background-size: 28px 28px;
+  content: "";
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  background: var(--card);
+  backdrop-filter: blur(14px);
+  box-shadow: var(--shadow);
+}
+
+.surface-soft {
+  background: var(--surface-soft);
+}
+
+.surface-warm {
+  background: var(--surface-warm);
+}
+
+.surface-inverse {
+  background: var(--surface-inverse);
+  color: var(--surface-inverse-foreground);
+}
+
+.surface-inverse-muted {
+  color: color-mix(in srgb, var(--surface-inverse-foreground) 68%, transparent);
+}
+
+.hero-gradient-panel {
+  background: linear-gradient(160deg, var(--hero-gradient-start) 0%, var(--hero-gradient-end) 100%);
+}
+
+.badge-soft {
+  background: var(--badge-soft-bg);
+  color: var(--badge-soft-fg);
+}
+
+.map-overlay {
+  background: color-mix(in srgb, var(--card-strong) 88%, transparent);
+}
+
+.readable-attribution .leaflet-control-attribution {
+  background: color-mix(in srgb, var(--card-strong) 90%, transparent) !important;
+  color: var(--muted) !important;
+  border-top-left-radius: 12px;
+}
+
+.readable-attribution .leaflet-control-attribution a {
+  color: var(--foreground) !important;
+}
+
+.leaflet-container {
+  font-family: var(--font-sans), sans-serif;
+  background: color-mix(in srgb, var(--card-strong) 85%, transparent);
+}
+
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+  stroke: var(--chart-grid);
+}
+
+.recharts-tooltip-wrapper {
+  outline: none;
+}

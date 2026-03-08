@@ -1,0 +1,648 @@
+[
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1128",
+    "name": "Pragstraße • Straßenbauarbeiten",
+    "districtId": "bad-cannstatt",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.8081,
+    "longitude": 9.2045,
+    "startTime": "2025-03-17T12:00:00.000Z",
+    "endTime": "2028-07-01T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahneinengung und Fahrbahnverschwenkung in beide Richtungen.",
+      "status": "im Bau",
+      "details": "zwischen Wilhelmastraße und Haltestelle Rosensteinpark",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1129",
+    "name": "Quellenstrasse • Kanal- und Straßenbauarbeiten",
+    "districtId": "bad-cannstatt",
+    "type": "Kanal- und Straßenbauarbeiten",
+    "latitude": 48.809,
+    "longitude": 9.2,
+    "startTime": "2025-04-01T12:00:00.000Z",
+    "endTime": "2026-05-25T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Abschnittsweise Vollsperrungen. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "zwischen Glockenstraße und Löwentorstraße/Im Schwenkrain",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1130",
+    "name": "Neue Weinsteige • Arbeiten an der Hangbrücke",
+    "districtId": "sued",
+    "type": "Arbeiten an der Hangbrücke",
+    "latitude": 48.7621,
+    "longitude": 9.1797,
+    "startTime": "2025-07-11T12:00:00.000Z",
+    "endTime": "2026-06-25T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahneinengung und Fahrbahnverschwenkung in beide Richtungen",
+      "status": "im Bau",
+      "details": "B27",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1131",
+    "name": "Bregenzer Straße • Kanalbauarbeiten",
+    "districtId": "feuerbach",
+    "type": "Kanalbauarbeiten",
+    "latitude": 48.8136,
+    "longitude": 9.1626,
+    "startTime": "2025-08-25T12:00:00.000Z",
+    "endTime": "2026-03-25T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Teilsperrung. Einbahnstraßenregelung in Richtung Zuffenhausen",
+      "status": "im Bau",
+      "details": "zwischen Leobener Straße und Steiermärker Straße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1132",
+    "name": "Leobener Straße • Kanalbauarbeiten",
+    "districtId": "feuerbach",
+    "type": "Kanalbauarbeiten",
+    "latitude": 48.8131,
+    "longitude": 9.1613,
+    "startTime": "2025-08-25T12:00:00.000Z",
+    "endTime": "2026-03-25T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung: Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "zwischen Bregenzer Straße und Steiermäker Straße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1133",
+    "name": "Reichenbachstraße • Kanalbauarbeiten",
+    "districtId": "bad-cannstatt",
+    "type": "Kanalbauarbeiten",
+    "latitude": 48.7986,
+    "longitude": 9.2247,
+    "startTime": "2025-08-25T12:00:00.000Z",
+    "endTime": "2026-08-31T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "Zwischen Morlockstraße und Heinrich-Ebner-Straße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1134",
+    "name": "Nobelstraße • Straßenbauarbeiten",
+    "districtId": "vaihingen",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.7402,
+    "longitude": 9.0994,
+    "startTime": "2025-09-08T12:00:00.000Z",
+    "endTime": "2026-03-27T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Eine Umleitung ist ausgeschildert",
+      "status": "im Bau",
+      "details": "zwischen Universitätsstraße und Büsnauer Straße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1135",
+    "name": "Böblinger Straße • Bahnsteigverlängerung",
+    "districtId": "sued",
+    "type": "Bahnsteigverlängerung",
+    "latitude": 48.7567,
+    "longitude": 9.1442,
+    "startTime": "2025-10-10T12:00:00.000Z",
+    "endTime": "2026-05-07T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "zwischen Seilbahnstraße und Hohentwielstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1136",
+    "name": "Zeppelinstraße • Straßenbauarbeiten",
+    "districtId": "west",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.7813,
+    "longitude": 9.1535,
+    "startTime": "2025-10-17T12:00:00.000Z",
+    "endTime": "2026-03-25T12:00:00.000Z",
+    "severity": "Low",
+    "metadata": {
+      "impact": "Ampelgeregelte Engstelle.",
+      "status": "im Bau",
+      "details": "zwischen Honoldweg und Kantstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1137",
+    "name": "Reichenhaller Straße • Kanalbauarbeiten",
+    "districtId": "bad-cannstatt",
+    "type": "Kanalbauarbeiten",
+    "latitude": 48.8022,
+    "longitude": 9.2312,
+    "startTime": "2025-10-20T12:00:00.000Z",
+    "endTime": "2026-05-15T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "zwischen Taubenheimstraße und Dennerstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1138",
+    "name": "Erwin-Schoettle-Platz • Bahnsteigverlängeurng",
+    "districtId": "sued",
+    "type": "Bahnsteigverlängeurng",
+    "latitude": 48.7627,
+    "longitude": 9.1594,
+    "startTime": "2025-11-03T12:00:00.000Z",
+    "endTime": "2026-04-25T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahnsperrung, Fahrbahneinengung und Fahrbahnverschwenkung über mehrere Bauabschnitte. Eine Umleitung ist jeweils ausgeschildert.",
+      "status": "im Bau",
+      "details": "gesamter Kreuzungsbereich",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1139",
+    "name": "Benzstraße • Kanalbauarbeiten",
+    "districtId": "untertuerkheim",
+    "type": "Kanalbauarbeiten",
+    "latitude": 48.7885,
+    "longitude": 9.2431,
+    "startTime": "2025-11-10T12:00:00.000Z",
+    "endTime": "2026-07-01T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahneinengung und Verschwenkung sowie Reduzierung der Fahrspur in beiden Fahrtrichtungen.",
+      "status": "im Bau",
+      "details": "zwischen B14 Abfahrt (S-Untertürkheim S-Bad Cannstatt Daimler/ Mercedes-Benz) und  Inselstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1140",
+    "name": "Haußmannstraße • Straßenbauarbeiten",
+    "districtId": "ost",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.7855,
+    "longitude": 9.202,
+    "startTime": "2025-11-12T12:00:00.000Z",
+    "endTime": "2026-03-15T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Ampelgeregelte Engstelle in der Haußmannstraße, Sperrung der Schwarenbergstraße in Fahrtrichtung Rotenbergstraße.",
+      "status": "im Bau",
+      "details": "Kreuzungsbereich Schwarenbergstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1141",
+    "name": "Dornröschenweg • Arbeiten an Versorgungsleitungen (Gas, Strom und Wasser)",
+    "districtId": "moehringen",
+    "type": "Arbeiten an Versorgungsleitungen (Gas, Strom und Wasser)",
+    "latitude": 48.7204,
+    "longitude": 9.1466,
+    "startTime": "2025-11-17T12:00:00.000Z",
+    "endTime": "2026-04-30T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Teilsperrung. Einbahnstraßenregelung in Richtung Schneewittchenweg",
+      "status": "im Bau",
+      "details": "zwischen Hechinger Straße und Schneewittchenweg",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1142",
+    "name": "Föhrichstraße • Bau von Fluchttreppenhäuser",
+    "districtId": "feuerbach",
+    "type": "Bau von Fluchttreppenhäuser",
+    "latitude": 48.8107,
+    "longitude": 9.1483,
+    "startTime": "2025-11-17T12:00:00.000Z",
+    "endTime": null,
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahneinengung und Fahrbahnverschwenkung. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "zwischen Wiener Straße und Stuttgarter Straße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1143",
+    "name": "Gebhard-Müller-Platz • Arbeiten für das Bauvorhaben S21 und für die neue Stadtbahnhaltestelle",
+    "districtId": "mitte",
+    "type": "Arbeiten für das Bauvorhaben S21 und für die neue Stadtbahnhaltestelle",
+    "latitude": 48.7814,
+    "longitude": 9.1867,
+    "startTime": "2014-11-03T12:00:00.000Z",
+    "endTime": null,
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Während der gesamten Bauzeit ist mit Fahrbahnverschwenkungen und -einengungen in beiden Fahrtrichtungen zu rechnen. Fahrspursperrungen finden in der Regel außerhalb der Hauptverkehrszeit statt.",
+      "status": "im Bau",
+      "details": "Kreuzungsbereich Willy-Brandt-Straße / Konrad-Adenauer-Straße / Schillerstraße / Wagenburgtunnel",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1144",
+    "name": "Schillerstraße • Arbeiten für das Bauvorhaben S21",
+    "districtId": "mitte",
+    "type": "Arbeiten für das Bauvorhaben S21",
+    "latitude": 48.7819,
+    "longitude": 9.185,
+    "startTime": "2019-07-08T12:00:00.000Z",
+    "endTime": null,
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahnverschwenkungen und -einengungen in beide Fahrtrichtungen. Fahrspursperrungen finden in der Regel außerhalb der Hauptverkehrszeit statt. Wechsel der Verkehrszustände während der Bauzeit.",
+      "status": "im Bau",
+      "details": "zwischen Hauptbahnhof und Gebhard-Müller-Platz",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1145",
+    "name": "Konrad-Adenauer-Straße • Arbeiten für das Bauvorhaben S21",
+    "districtId": "mitte",
+    "type": "Arbeiten für das Bauvorhaben S21",
+    "latitude": 48.7812,
+    "longitude": 9.1865,
+    "startTime": "2021-07-27T12:00:00.000Z",
+    "endTime": null,
+    "severity": "Low",
+    "metadata": {
+      "impact": "Fahrbahnreduzierung auf jeweils eine Spur in beiden Fahrtrichtungen.",
+      "status": "im Bau",
+      "details": "B14 - Unterführung Gebhard-Müller-Platz",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1146",
+    "name": "Hauptstätter Straße • Baustelle",
+    "districtId": "mitte",
+    "type": "Baustelle",
+    "latitude": 48.7739,
+    "longitude": 9.1805,
+    "startTime": "2024-05-27T12:00:00.000Z",
+    "endTime": null,
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung der Auffahrtsrampe von der B14 zum Charlottenplatz. Erschwerte Durchfahrt am Charlottenplatz. Keine Zufahrt vom Charlottenplatz in Richtung B27 Degerloch . Fahrtrichtung geradeaus und rechts am Charlottenplatz gesperrt. Weiterführung für Radverkehr und Bus eingerichtet.",
+      "status": "im Bau",
+      "details": "von Leonhardsplatz bis Charlottenplatz",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1147",
+    "name": "Büsnauer Straße • Straßenbauarbeiten",
+    "districtId": "vaihingen",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.7473,
+    "longitude": 9.0842,
+    "startTime": "2026-02-09T12:00:00.000Z",
+    "endTime": "2026-03-15T12:00:00.000Z",
+    "severity": "Low",
+    "metadata": {
+      "impact": "Ampelgeregelte Engstelle.",
+      "status": "im Bau",
+      "details": "Kreuzungsbereich Heisenbergstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1148",
+    "name": "Kappelbergstraße • Kanalbauarbeiten",
+    "districtId": "untertuerkheim",
+    "type": "Kanalbauarbeiten",
+    "latitude": 48.7852,
+    "longitude": 9.2529,
+    "startTime": "2026-02-09T12:00:00.000Z",
+    "endTime": "2027-03-31T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "Kreuzungsbereich Fellbacher Straße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1149",
+    "name": "Lambertweg • Straßenbauarbeiten",
+    "districtId": "vaihingen",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.7168,
+    "longitude": 9.1223,
+    "startTime": "2026-02-12T12:00:00.000Z",
+    "endTime": "2026-03-25T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung",
+      "status": "im Bau",
+      "details": "zwischen Herschelstraße und Eulerstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1150",
+    "name": "Heilbronner Straße • Bauwerksarbeiten",
+    "districtId": "nord",
+    "type": "Bauwerksarbeiten",
+    "latitude": 48.8048,
+    "longitude": 9.1839,
+    "startTime": "2026-02-18T12:00:00.000Z",
+    "endTime": "2026-03-07T12:00:00.000Z",
+    "severity": "Low",
+    "metadata": {
+      "impact": "Fahrbahnreduzierung stadtauswärts von 9 bis 13 Uhr",
+      "status": "im Bau",
+      "details": "Bereich Löwentorbürcke",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1151",
+    "name": "Stammheimer Straße • Bauwerksarbeiten",
+    "districtId": "zuffenhausen",
+    "type": "Bauwerksarbeiten",
+    "latitude": 48.8409,
+    "longitude": 9.1599,
+    "startTime": "2026-02-20T12:00:00.000Z",
+    "endTime": "2026-05-31T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "zwischen Adestraße und In den Hochwiesen",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1152",
+    "name": "B10/27 • Bauwerksarbeiten",
+    "districtId": "zuffenhausen",
+    "type": "Bauwerksarbeiten",
+    "latitude": 48.8398,
+    "longitude": 9.1575,
+    "startTime": "2026-02-20T12:00:00.000Z",
+    "endTime": "2026-05-31T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahneinengung und Fahrbahnreduzierung",
+      "status": "im Bau",
+      "details": "Einfahrt B10 von Adestraße in Richtung Stuttgart-Zuffenhausen",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1153",
+    "name": "Tunnelstraße • Gleisbauarbeiten",
+    "districtId": "feuerbach",
+    "type": "Gleisbauarbeiten",
+    "latitude": 48.8118,
+    "longitude": 9.1708,
+    "startTime": "2026-02-23T12:00:00.000Z",
+    "endTime": "2026-04-12T12:00:00.000Z",
+    "severity": "Low",
+    "metadata": {
+      "impact": "Fahrbahnreduzierung",
+      "status": "im Bau",
+      "details": "zwischen Stuttgarter Straße und Siemensstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1154",
+    "name": "Cannstatter Straße • Straßenbauarbeiten",
+    "districtId": "ost",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.792,
+    "longitude": 9.1966,
+    "startTime": "2025-11-21T12:00:00.000Z",
+    "endTime": "2026-05-29T12:00:00.000Z",
+    "severity": "Low",
+    "metadata": {
+      "impact": "Fahrbahnreduzierung in beiden Fahrtrichtungen auf jeweils zwei Spuren.",
+      "status": "im Bau",
+      "details": "zwischen Heilmannstraße und Villastraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1155",
+    "name": "Kremser Straße • Arbeiten für das Bauvorhaben S21",
+    "districtId": "feuerbach",
+    "type": "Arbeiten für das Bauvorhaben S21",
+    "latitude": 48.8128,
+    "longitude": 9.1689,
+    "startTime": "2025-12-11T12:00:00.000Z",
+    "endTime": "2026-06-01T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Eine Umleitung für den Fuß- und Radverkehr ist eingerichtet.",
+      "status": "im Bau",
+      "details": "nach der Pöchlarner Straße bis Bahnhof",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1156",
+    "name": "Böblinger Straße • Bahnsteigverlängerung",
+    "districtId": "sued",
+    "type": "Bahnsteigverlängerung",
+    "latitude": 48.7629,
+    "longitude": 9.1605,
+    "startTime": "2025-12-20T12:00:00.000Z",
+    "endTime": "2026-04-23T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung stadteinwärts. Eine Umleitung ist ausgeschildert.",
+      "status": "im Bau",
+      "details": "zwsichen Erwin-Schöttle-Platz und Adlerstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1159",
+    "name": "Müllerstraße • Bahnsteigverlängerung",
+    "districtId": "sued",
+    "type": "Bahnsteigverlängerung",
+    "latitude": 48.7588,
+    "longitude": 9.1505,
+    "startTime": "2026-01-06T12:00:00.000Z",
+    "endTime": "2026-03-24T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung",
+      "status": "im Bau",
+      "details": "zwsichen Böblinger Straße und Möhringer Straße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1160",
+    "name": "Ritterstraße • Bahnsteigverlängerung",
+    "districtId": "sued",
+    "type": "Bahnsteigverlängerung",
+    "latitude": 48.7604,
+    "longitude": 9.1525,
+    "startTime": "2026-01-06T12:00:00.000Z",
+    "endTime": "2026-03-24T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung.",
+      "status": "im Bau",
+      "details": "zwischen Böblinger Straße und Hasenstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1161",
+    "name": "Herdweg • Kanalbauarbeiten",
+    "districtId": "nord",
+    "type": "Kanalbauarbeiten",
+    "latitude": 48.7864,
+    "longitude": 9.1584,
+    "startTime": "2026-01-13T12:00:00.000Z",
+    "endTime": "2026-03-09T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung",
+      "status": "im Bau",
+      "details": "zwischen Lenzhalde und Lessingstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1162",
+    "name": "Wiener Straße • Arbeiten an Versorgungsleitungen",
+    "districtId": "feuerbach",
+    "type": "Arbeiten an Versorgungsleitungen",
+    "latitude": 48.8089,
+    "longitude": 9.1502,
+    "startTime": "2026-01-19T12:00:00.000Z",
+    "endTime": "2026-04-02T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Teilsperrung. Einbahnstraßenregelung in Richtung Pfaffenäckerstraße",
+      "status": "im Bau",
+      "details": "zwischen Spitzäckerstraße und Pfaffenäckerstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1163",
+    "name": "Robert-Mayer-Straße • Arbeiten an Versorgungsleitungen (Strom)",
+    "districtId": "nord",
+    "type": "Arbeiten an Versorgungsleitungen (Strom)",
+    "latitude": 48.7967,
+    "longitude": 9.1786,
+    "startTime": "2026-01-19T12:00:00.000Z",
+    "endTime": "2026-05-29T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahneinengung und Fahrbahnverschwenkung",
+      "status": "im Bau",
+      "details": "zwischen Eckartshaldenweg und Rebhalde",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1164",
+    "name": "Reutlinger Straße • Arbeiten an Versorgungsleitungen (Strom)",
+    "districtId": "degerloch",
+    "type": "Arbeiten an Versorgungsleitungen (Strom)",
+    "latitude": 48.7407,
+    "longitude": 9.1708,
+    "startTime": "2026-01-19T12:00:00.000Z",
+    "endTime": "2026-05-30T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Teilsperrung. Einbahnstraßenregelung in Richtung Hoffeldstraße",
+      "status": "im Bau",
+      "details": "zwischen Epplestraße und Hoffeldstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_im_Bau_EPSG25832.1165",
+    "name": "Rotenwaldstraße • Straßenbauarbeiten",
+    "districtId": "west",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.7697,
+    "longitude": 9.153,
+    "startTime": "2026-01-20T12:00:00.000Z",
+    "endTime": "2026-06-15T12:00:00.000Z",
+    "severity": "Medium",
+    "metadata": {
+      "impact": "Fahrbahneinengung und Fahrbahnverschwenkung stadtauswärts",
+      "status": "im Bau",
+      "details": "zwischen Rotebühlstraße und Gutenbergstraße",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_geplant_EPSG25832.1157",
+    "name": "Am Tazzelwurm • Arbeiten an Versorgungsleitungen (Strom)",
+    "districtId": "nord",
+    "type": "Arbeiten an Versorgungsleitungen (Strom)",
+    "latitude": 48.7925,
+    "longitude": 9.1682,
+    "startTime": "2026-03-09T12:00:00.000Z",
+    "endTime": "2026-03-27T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung",
+      "status": "geplant",
+      "details": "zwischen Parlerstraße und Frauenbergweg",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  },
+  {
+    "id": "A66_BAUM_BAUSTELLEN_DATE_WEB_geplant_EPSG25832.1158",
+    "name": "B10/27 • Straßenbauarbeiten",
+    "districtId": "zuffenhausen",
+    "type": "Straßenbauarbeiten",
+    "latitude": 48.8227,
+    "longitude": 9.1719,
+    "startTime": "2026-03-09T12:00:00.000Z",
+    "endTime": "2026-04-03T12:00:00.000Z",
+    "severity": "High",
+    "metadata": {
+      "impact": "Vollsperrung. Großrämige Umleitungen sind ausgeschildert.",
+      "status": "geplant",
+      "details": "Ausfahrt Rampe Friedrichswahl in Fahrtrichtung Stuttgart",
+      "source": "Stuttgart GeoServer WFS"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "fetchedAt": "2026-03-08T11:05:37.333Z",
+  "counts": {
+    "sensors": 489,
+    "measurements": 2040
+  },
+  "source": "https://data.sensor.community/airrohr/v1/filter/area=48.70,9.00,48.86,9.33"
+}

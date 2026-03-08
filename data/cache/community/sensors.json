@@ -1,0 +1,3914 @@
+[
+  {
+    "id": "10009",
+    "name": "Sensor 10009",
+    "districtId": "mitte",
+    "latitude": 48.652,
+    "longitude": 9.25,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10122",
+    "name": "Sensor 10122",
+    "districtId": "mitte",
+    "latitude": 49.038,
+    "longitude": 8.71,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10134",
+    "name": "Sensor 10134",
+    "districtId": "mitte",
+    "latitude": 48.85,
+    "longitude": 8.924,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1026",
+    "name": "Sensor 1026",
+    "districtId": "sillenbuch",
+    "latitude": 48.746,
+    "longitude": 9.214,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10311",
+    "name": "Sensor 10311",
+    "districtId": "botnang",
+    "latitude": 48.776,
+    "longitude": 9.128,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10418",
+    "name": "Sensor 10418",
+    "districtId": "moehringen",
+    "latitude": 48.728,
+    "longitude": 9.14,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10432",
+    "name": "Sensor 10432",
+    "districtId": "mitte",
+    "latitude": 48.68,
+    "longitude": 9.004,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10458",
+    "name": "Sensor 10458",
+    "districtId": "mitte",
+    "latitude": 48.722,
+    "longitude": 8.736,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10467",
+    "name": "Sensor 10467",
+    "districtId": "mitte",
+    "latitude": 48.878,
+    "longitude": 9.394,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10537",
+    "name": "Sensor 10537",
+    "districtId": "mitte",
+    "latitude": 49.048,
+    "longitude": 8.468,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10596",
+    "name": "Sensor 10596",
+    "districtId": "mitte",
+    "latitude": 48.766,
+    "longitude": 8.674,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "107",
+    "name": "Sensor 107",
+    "districtId": "mitte",
+    "latitude": 48.53,
+    "longitude": 9.2,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10847",
+    "name": "Sensor 10847",
+    "districtId": "mitte",
+    "latitude": 48.716,
+    "longitude": 8.744,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10880",
+    "name": "Sensor 10880",
+    "districtId": "mitte",
+    "latitude": 48.884,
+    "longitude": 8.338,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1090",
+    "name": "Sensor 1090",
+    "districtId": "mitte",
+    "latitude": 48.704,
+    "longitude": 9.122,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "10985",
+    "name": "Sensor 10985",
+    "districtId": "mitte",
+    "latitude": 48.714,
+    "longitude": 8.738,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11197",
+    "name": "Sensor 11197",
+    "districtId": "degerloch",
+    "latitude": 48.744,
+    "longitude": 9.162,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11263",
+    "name": "Sensor 11263",
+    "districtId": "mitte",
+    "latitude": 48.798,
+    "longitude": 9.07,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11269",
+    "name": "Sensor 11269",
+    "districtId": "mitte",
+    "latitude": 48.956,
+    "longitude": 9.2,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11313",
+    "name": "Sensor 11313",
+    "districtId": "mitte",
+    "latitude": 48.858,
+    "longitude": 9.206,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1140",
+    "name": "Sensor 1140",
+    "districtId": "mitte",
+    "latitude": 48.628,
+    "longitude": 8.924,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11498",
+    "name": "Sensor 11498",
+    "districtId": "mitte",
+    "latitude": 48.748,
+    "longitude": 9.278,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11598",
+    "name": "Sensor 11598",
+    "districtId": "zuffenhausen",
+    "latitude": 48.84,
+    "longitude": 9.188,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11741",
+    "name": "Sensor 11741",
+    "districtId": "mitte",
+    "latitude": 48.7714493,
+    "longitude": 9.18369540421,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11747",
+    "name": "Sensor 11747",
+    "districtId": "mitte",
+    "latitude": 48.832,
+    "longitude": 9.072,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11933",
+    "name": "Sensor 11933",
+    "districtId": "ost",
+    "latitude": 48.784,
+    "longitude": 9.198,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "11996",
+    "name": "Sensor 11996",
+    "districtId": "mitte",
+    "latitude": 48.704,
+    "longitude": 9.474,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12086",
+    "name": "Sensor 12086",
+    "districtId": "zuffenhausen",
+    "latitude": 48.84054385,
+    "longitude": 9.18906703997,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12088",
+    "name": "Sensor 12088",
+    "districtId": "mitte",
+    "latitude": 49.07720039066,
+    "longitude": 8.57736378908,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12118",
+    "name": "Sensor 12118",
+    "districtId": "mitte",
+    "latitude": 48.864,
+    "longitude": 9.2,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12222",
+    "name": "Sensor 12222",
+    "districtId": "mitte",
+    "latitude": 49.058,
+    "longitude": 8.524,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12296",
+    "name": "Sensor 12296",
+    "districtId": "mitte",
+    "latitude": 49.124,
+    "longitude": 9.152,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12768",
+    "name": "Sensor 12768",
+    "districtId": "mitte",
+    "latitude": 48.916,
+    "longitude": 8.99,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12826",
+    "name": "Sensor 12826",
+    "districtId": "weilimdorf",
+    "latitude": 48.812,
+    "longitude": 9.118,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12844",
+    "name": "Sensor 12844",
+    "districtId": "mitte",
+    "latitude": 48.534,
+    "longitude": 9.196,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12892",
+    "name": "Sensor 12892",
+    "districtId": "mitte",
+    "latitude": 48.606,
+    "longitude": 9.222,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "12976",
+    "name": "Sensor 12976",
+    "districtId": "mitte",
+    "latitude": 48.412,
+    "longitude": 9.514,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1308",
+    "name": "Sensor 1308",
+    "districtId": "mitte",
+    "latitude": 48.84,
+    "longitude": 9.314,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "13083",
+    "name": "Sensor 13083",
+    "districtId": "ost",
+    "latitude": 48.79,
+    "longitude": 9.198,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1328",
+    "name": "Sensor 1328",
+    "districtId": "mitte",
+    "latitude": 48.82,
+    "longitude": 9.354,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "13311",
+    "name": "Sensor 13311",
+    "districtId": "mitte",
+    "latitude": 48.672,
+    "longitude": 9.376,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "13329",
+    "name": "Sensor 13329",
+    "districtId": "mitte",
+    "latitude": 48.638,
+    "longitude": 8.896,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1336",
+    "name": "Sensor 1336",
+    "districtId": "mitte",
+    "latitude": 48.814,
+    "longitude": 9.318,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "13386",
+    "name": "Sensor 13386",
+    "districtId": "mitte",
+    "latitude": 48.524,
+    "longitude": 9.044,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1346",
+    "name": "Sensor 1346",
+    "districtId": "mitte",
+    "latitude": 48.796,
+    "longitude": 9.48,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "13463",
+    "name": "Sensor 13463",
+    "districtId": "mitte",
+    "latitude": 48.774,
+    "longitude": 9.174,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "13685",
+    "name": "Sensor 13685",
+    "districtId": "mitte",
+    "latitude": 48.296,
+    "longitude": 8.874,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "140",
+    "name": "Sensor 140",
+    "districtId": "west",
+    "latitude": 48.778,
+    "longitude": 9.16,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1400",
+    "name": "Sensor 1400",
+    "districtId": "mitte",
+    "latitude": 48.842,
+    "longitude": 8.926,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "14015",
+    "name": "Sensor 14015",
+    "districtId": "stammheim",
+    "latitude": 48.854,
+    "longitude": 9.158,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "146",
+    "name": "Sensor 146",
+    "districtId": "nord",
+    "latitude": 48.808,
+    "longitude": 9.182,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1467",
+    "name": "Sensor 1467",
+    "districtId": "mitte",
+    "latitude": 48.892,
+    "longitude": 9.544,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "14688",
+    "name": "Sensor 14688",
+    "districtId": "moehringen",
+    "latitude": 48.728,
+    "longitude": 9.154,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "14994",
+    "name": "Sensor 14994",
+    "districtId": "mitte",
+    "latitude": 49.006,
+    "longitude": 8.372,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15020",
+    "name": "Sensor 15020",
+    "districtId": "mitte",
+    "latitude": 48.5062464,
+    "longitude": 8.86927477149,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15043",
+    "name": "Sensor 15043",
+    "districtId": "mitte",
+    "latitude": 48.562,
+    "longitude": 8.91,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1509",
+    "name": "Sensor 1509",
+    "districtId": "mitte",
+    "latitude": 48.688,
+    "longitude": 9.428,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "151",
+    "name": "Sensor 151",
+    "districtId": "nord",
+    "latitude": 48.792,
+    "longitude": 9.164,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15104",
+    "name": "Sensor 15104",
+    "districtId": "mitte",
+    "latitude": 48.994,
+    "longitude": 9.212,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15198",
+    "name": "Sensor 15198",
+    "districtId": "mitte",
+    "latitude": 48.654,
+    "longitude": 9.07,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15246",
+    "name": "Sensor 15246",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.82,
+    "longitude": 9.248,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15277",
+    "name": "Sensor 15277",
+    "districtId": "mitte",
+    "latitude": 48.9201145,
+    "longitude": 8.75976,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15287",
+    "name": "Sensor 15287",
+    "districtId": "mitte",
+    "latitude": 48.708,
+    "longitude": 9.026,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15297",
+    "name": "Sensor 15297",
+    "districtId": "mitte",
+    "latitude": 48.796,
+    "longitude": 9.026,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1533",
+    "name": "Sensor 1533",
+    "districtId": "mitte",
+    "latitude": 48.822,
+    "longitude": 9.304,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15342",
+    "name": "Sensor 15342",
+    "districtId": "mitte",
+    "latitude": 48.478,
+    "longitude": 8.936,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15356",
+    "name": "Sensor 15356",
+    "districtId": "untertuerkheim",
+    "latitude": 48.792,
+    "longitude": 9.26,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15555",
+    "name": "Sensor 15555",
+    "districtId": "mitte",
+    "latitude": 48.66,
+    "longitude": 9.116,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15595",
+    "name": "Sensor 15595",
+    "districtId": "mitte",
+    "latitude": 48.658,
+    "longitude": 9.068,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15603",
+    "name": "Sensor 15603",
+    "districtId": "mitte",
+    "latitude": 49.042,
+    "longitude": 9.092,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15667",
+    "name": "Sensor 15667",
+    "districtId": "mitte",
+    "latitude": 48.71,
+    "longitude": 9.024,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "15944",
+    "name": "Sensor 15944",
+    "districtId": "mitte",
+    "latitude": 48.832,
+    "longitude": 8.732,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16031",
+    "name": "Sensor 16031",
+    "districtId": "mitte",
+    "latitude": 48.308,
+    "longitude": 8.914,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16065",
+    "name": "Sensor 16065",
+    "districtId": "mitte",
+    "latitude": 48.952,
+    "longitude": 8.97,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1613",
+    "name": "Sensor 1613",
+    "districtId": "mitte",
+    "latitude": 48.824,
+    "longitude": 9.346,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16262",
+    "name": "Sensor 16262",
+    "districtId": "mitte",
+    "latitude": 48.594,
+    "longitude": 8.598,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16270",
+    "name": "Sensor 16270",
+    "districtId": "mitte",
+    "latitude": 49.048,
+    "longitude": 8.396,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16510",
+    "name": "Sensor 16510",
+    "districtId": "mitte",
+    "latitude": 48.772,
+    "longitude": 8.754,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16624",
+    "name": "Sensor 16624",
+    "districtId": "mitte",
+    "latitude": 48.496,
+    "longitude": 9.098,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16944",
+    "name": "Sensor 16944",
+    "districtId": "mitte",
+    "latitude": 48.71283859216,
+    "longitude": 8.99473696947,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "16994",
+    "name": "Sensor 16994",
+    "districtId": "mitte",
+    "latitude": 48.522,
+    "longitude": 9.206,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1715",
+    "name": "Sensor 1715",
+    "districtId": "muenster",
+    "latitude": 48.824,
+    "longitude": 9.22,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1727",
+    "name": "Sensor 1727",
+    "districtId": "mitte",
+    "latitude": 48.808,
+    "longitude": 9.006,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "17510",
+    "name": "Sensor 17510",
+    "districtId": "mitte",
+    "latitude": 48.818,
+    "longitude": 9.422,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1753",
+    "name": "Sensor 1753",
+    "districtId": "mitte",
+    "latitude": 48.312,
+    "longitude": 9.246,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "17753",
+    "name": "Sensor 17753",
+    "districtId": "mitte",
+    "latitude": 48.994,
+    "longitude": 9.15,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "179",
+    "name": "Sensor 179",
+    "districtId": "mitte",
+    "latitude": 48.788,
+    "longitude": 9.01,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "17949",
+    "name": "Sensor 17949",
+    "districtId": "mitte",
+    "latitude": 48.7,
+    "longitude": 9.316,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "18146",
+    "name": "Sensor 18146",
+    "districtId": "zuffenhausen",
+    "latitude": 48.832,
+    "longitude": 9.182,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "18172",
+    "name": "Sensor 18172",
+    "districtId": "mitte",
+    "latitude": 48.818,
+    "longitude": 9.312,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "18224",
+    "name": "Sensor 18224",
+    "districtId": "mitte",
+    "latitude": 48.59,
+    "longitude": 8.854,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "18383",
+    "name": "Sensor 18383",
+    "districtId": "mitte",
+    "latitude": 48.644,
+    "longitude": 9.456,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1839",
+    "name": "Sensor 1839",
+    "districtId": "mitte",
+    "latitude": 48.944,
+    "longitude": 9.148,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "18425",
+    "name": "Sensor 18425",
+    "districtId": "hedelfingen",
+    "latitude": 48.756,
+    "longitude": 9.226,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1879",
+    "name": "Sensor 1879",
+    "districtId": "mitte",
+    "latitude": 49.002,
+    "longitude": 8.39,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19022",
+    "name": "Sensor 19022",
+    "districtId": "mitte",
+    "latitude": 48.606,
+    "longitude": 8.858,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19036",
+    "name": "Sensor 19036",
+    "districtId": "mitte",
+    "latitude": 49.138,
+    "longitude": 8.9,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19107",
+    "name": "Sensor 19107",
+    "districtId": "mitte",
+    "latitude": 48.832,
+    "longitude": 9.126,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19179",
+    "name": "Sensor 19179",
+    "districtId": "mitte",
+    "latitude": 48.754,
+    "longitude": 8.868,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19257",
+    "name": "Sensor 19257",
+    "districtId": "ost",
+    "latitude": 48.78,
+    "longitude": 9.212,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19260",
+    "name": "Sensor 19260",
+    "districtId": "mitte",
+    "latitude": 48.588,
+    "longitude": 9.216,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19402",
+    "name": "Sensor 19402",
+    "districtId": "mitte",
+    "latitude": 48.888,
+    "longitude": 8.998,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "19863",
+    "name": "Sensor 19863",
+    "districtId": "muenster",
+    "latitude": 48.82,
+    "longitude": 9.226,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "1991",
+    "name": "Sensor 1991",
+    "districtId": "mitte",
+    "latitude": 48.448,
+    "longitude": 8.924,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2003",
+    "name": "Sensor 2003",
+    "districtId": "mitte",
+    "latitude": 48.79401405,
+    "longitude": 8.95603456425,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20065",
+    "name": "Sensor 20065",
+    "districtId": "mitte",
+    "latitude": 48.884,
+    "longitude": 9.182,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20078",
+    "name": "Sensor 20078",
+    "districtId": "mitte",
+    "latitude": 48.85,
+    "longitude": 8.924,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20084",
+    "name": "Sensor 20084",
+    "districtId": "mitte",
+    "latitude": 48.474,
+    "longitude": 9.138,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20179",
+    "name": "Sensor 20179",
+    "districtId": "mitte",
+    "latitude": 48.9,
+    "longitude": 9.09,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20230",
+    "name": "Sensor 20230",
+    "districtId": "mitte",
+    "latitude": 49.022,
+    "longitude": 9.338,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20344",
+    "name": "Sensor 20344",
+    "districtId": "mitte",
+    "latitude": 48.816,
+    "longitude": 9.278,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20486",
+    "name": "Sensor 20486",
+    "districtId": "mitte",
+    "latitude": 49.012,
+    "longitude": 8.37,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20649",
+    "name": "Sensor 20649",
+    "districtId": "mitte",
+    "latitude": 48.736,
+    "longitude": 9.332,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "20844",
+    "name": "Sensor 20844",
+    "districtId": "mitte",
+    "latitude": 49.084,
+    "longitude": 8.646,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "209",
+    "name": "Sensor 209",
+    "districtId": "weilimdorf",
+    "latitude": 48.81,
+    "longitude": 9.12,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21239",
+    "name": "Sensor 21239",
+    "districtId": "mitte",
+    "latitude": 48.962,
+    "longitude": 9.018,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21501",
+    "name": "Sensor 21501",
+    "districtId": "mitte",
+    "latitude": 48.674,
+    "longitude": 9.242,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21505",
+    "name": "Sensor 21505",
+    "districtId": "mitte",
+    "latitude": 48.886,
+    "longitude": 9.394,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21564",
+    "name": "Sensor 21564",
+    "districtId": "mitte",
+    "latitude": 48.737539,
+    "longitude": 9.319608,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21810",
+    "name": "Sensor 21810",
+    "districtId": "ost",
+    "latitude": 48.788,
+    "longitude": 9.208,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21822",
+    "name": "Sensor 21822",
+    "districtId": "mitte",
+    "latitude": 48.596,
+    "longitude": 9.238,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21905",
+    "name": "Sensor 21905",
+    "districtId": "mitte",
+    "latitude": 48.644,
+    "longitude": 9.006,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "21943",
+    "name": "Sensor 21943",
+    "districtId": "botnang",
+    "latitude": 48.778,
+    "longitude": 9.126,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "22107",
+    "name": "Sensor 22107",
+    "districtId": "weilimdorf",
+    "latitude": 48.812,
+    "longitude": 9.128,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "22515",
+    "name": "Sensor 22515",
+    "districtId": "mitte",
+    "latitude": 48.86,
+    "longitude": 9.624,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2299",
+    "name": "Sensor 2299",
+    "districtId": "vaihingen",
+    "latitude": 48.75,
+    "longitude": 9.078,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "22991",
+    "name": "Sensor 22991",
+    "districtId": "mitte",
+    "latitude": 49.0311140194,
+    "longitude": 8.57109546661,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "23123",
+    "name": "Sensor 23123",
+    "districtId": "mitte",
+    "latitude": 48.592,
+    "longitude": 8.858,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2320",
+    "name": "Sensor 2320",
+    "districtId": "mitte",
+    "latitude": 48.54,
+    "longitude": 9.268,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "23334",
+    "name": "Sensor 23334",
+    "districtId": "mitte",
+    "latitude": 48.598,
+    "longitude": 8.87,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "23565",
+    "name": "Sensor 23565",
+    "districtId": "mitte",
+    "latitude": 48.988,
+    "longitude": 8.544,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "23632",
+    "name": "Sensor 23632",
+    "districtId": "degerloch",
+    "latitude": 48.748,
+    "longitude": 9.166,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "23745",
+    "name": "Sensor 23745",
+    "districtId": "mitte",
+    "latitude": 48.878,
+    "longitude": 9.632,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2396",
+    "name": "Sensor 2396",
+    "districtId": "mitte",
+    "latitude": 48.41,
+    "longitude": 9.054,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2446",
+    "name": "Sensor 2446",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.818,
+    "longitude": 9.244,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "24631",
+    "name": "Sensor 24631",
+    "districtId": "mitte",
+    "latitude": 48.782,
+    "longitude": 9.19,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2480",
+    "name": "Sensor 2480",
+    "districtId": "zuffenhausen",
+    "latitude": 48.834,
+    "longitude": 9.164,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "24867",
+    "name": "Sensor 24867",
+    "districtId": "mitte",
+    "latitude": 48.698,
+    "longitude": 9.31,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2488",
+    "name": "Sensor 2488",
+    "districtId": "vaihingen",
+    "latitude": 48.716,
+    "longitude": 9.124,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "253",
+    "name": "Sensor 253",
+    "districtId": "mitte",
+    "latitude": 48.772,
+    "longitude": 8.846,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2544",
+    "name": "Sensor 2544",
+    "districtId": "zuffenhausen",
+    "latitude": 48.838,
+    "longitude": 9.142,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "25531",
+    "name": "Sensor 25531",
+    "districtId": "weilimdorf",
+    "latitude": 48.816,
+    "longitude": 9.118,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "25609",
+    "name": "Sensor 25609",
+    "districtId": "mitte",
+    "latitude": 49.044,
+    "longitude": 8.716,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "25976",
+    "name": "Sensor 25976",
+    "districtId": "mitte",
+    "latitude": 48.662,
+    "longitude": 9.124,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26022",
+    "name": "Sensor 26022",
+    "districtId": "mitte",
+    "latitude": 48.9477714,
+    "longitude": 8.96232135,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26113",
+    "name": "Sensor 26113",
+    "districtId": "mitte",
+    "latitude": 48.828,
+    "longitude": 9.064,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26209",
+    "name": "Sensor 26209",
+    "districtId": "mitte",
+    "latitude": 48.78182235894,
+    "longitude": 8.67640972137,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26223",
+    "name": "Sensor 26223",
+    "districtId": "mitte",
+    "latitude": 48.682,
+    "longitude": 8.89,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26273",
+    "name": "Sensor 26273",
+    "districtId": "mitte",
+    "latitude": 48.7660277,
+    "longitude": 9.2881022952,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26303",
+    "name": "Sensor 26303",
+    "districtId": "mitte",
+    "latitude": 48.68,
+    "longitude": 8.89,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26373",
+    "name": "Sensor 26373",
+    "districtId": "mitte",
+    "latitude": 48.55413572971,
+    "longitude": 8.88321340084,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2644",
+    "name": "Sensor 2644",
+    "districtId": "mitte",
+    "latitude": 48.54,
+    "longitude": 9.268,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2652",
+    "name": "Sensor 2652",
+    "districtId": "mitte",
+    "latitude": 48.692,
+    "longitude": 9.144,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "26588",
+    "name": "Sensor 26588",
+    "districtId": "mitte",
+    "latitude": 48.532,
+    "longitude": 8.722,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "27285",
+    "name": "Sensor 27285",
+    "districtId": "mitte",
+    "latitude": 48.88823665,
+    "longitude": 9.11878944253,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "27566",
+    "name": "Sensor 27566",
+    "districtId": "mitte",
+    "latitude": 48.584,
+    "longitude": 9.186,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2784",
+    "name": "Sensor 2784",
+    "districtId": "mitte",
+    "latitude": 48.722,
+    "longitude": 9.316,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "27847",
+    "name": "Sensor 27847",
+    "districtId": "mitte",
+    "latitude": 48.83,
+    "longitude": 8.73,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2786",
+    "name": "Sensor 2786",
+    "districtId": "mitte",
+    "latitude": 48.678,
+    "longitude": 9.242,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "27889",
+    "name": "Sensor 27889",
+    "districtId": "mitte",
+    "latitude": 49.082,
+    "longitude": 9.102,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28086",
+    "name": "Sensor 28086",
+    "districtId": "mitte",
+    "latitude": 48.912,
+    "longitude": 8.38,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28311",
+    "name": "Sensor 28311",
+    "districtId": "feuerbach",
+    "latitude": 48.81,
+    "longitude": 9.148,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28405",
+    "name": "Sensor 28405",
+    "districtId": "mitte",
+    "latitude": 48.3337421,
+    "longitude": 9.32830114292,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28427",
+    "name": "Sensor 28427",
+    "districtId": "mitte",
+    "latitude": 49.128,
+    "longitude": 8.52,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28483",
+    "name": "Sensor 28483",
+    "districtId": "mitte",
+    "latitude": 48.834,
+    "longitude": 8.736,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28537",
+    "name": "Sensor 28537",
+    "districtId": "mitte",
+    "latitude": 48.93076715,
+    "longitude": 8.36538355,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2866",
+    "name": "Sensor 2866",
+    "districtId": "mitte",
+    "latitude": 48.886,
+    "longitude": 8.728,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28724",
+    "name": "Sensor 28724",
+    "districtId": "mitte",
+    "latitude": 48.98,
+    "longitude": 9.646,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "28798",
+    "name": "Sensor 28798",
+    "districtId": "mitte",
+    "latitude": 48.642,
+    "longitude": 9.33,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "29006",
+    "name": "Sensor 29006",
+    "districtId": "mitte",
+    "latitude": 48.642,
+    "longitude": 9.008,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "29026",
+    "name": "Sensor 29026",
+    "districtId": "mitte",
+    "latitude": 48.608,
+    "longitude": 9.092,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "2912",
+    "name": "Sensor 2912",
+    "districtId": "west",
+    "latitude": 48.778,
+    "longitude": 9.166,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "29384",
+    "name": "Sensor 29384",
+    "districtId": "sillenbuch",
+    "latitude": 48.736,
+    "longitude": 9.218,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "295",
+    "name": "Sensor 295",
+    "districtId": "ost",
+    "latitude": 48.77,
+    "longitude": 9.2,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "29854",
+    "name": "Sensor 29854",
+    "districtId": "vaihingen",
+    "latitude": 48.738,
+    "longitude": 9.106,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "30265",
+    "name": "Sensor 30265",
+    "districtId": "mitte",
+    "latitude": 49.0811463,
+    "longitude": 8.39699174462,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "305",
+    "name": "Sensor 305",
+    "districtId": "mitte",
+    "latitude": 48.578,
+    "longitude": 9.18,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3066",
+    "name": "Sensor 3066",
+    "districtId": "zuffenhausen",
+    "latitude": 48.834,
+    "longitude": 9.194,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "30850",
+    "name": "Sensor 30850",
+    "districtId": "mitte",
+    "latitude": 48.382,
+    "longitude": 9.102,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "31112",
+    "name": "Sensor 31112",
+    "districtId": "moehringen",
+    "latitude": 48.73,
+    "longitude": 9.136,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "31128",
+    "name": "Sensor 31128",
+    "districtId": "mitte",
+    "latitude": 48.77,
+    "longitude": 8.944,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "31232",
+    "name": "Sensor 31232",
+    "districtId": "mitte",
+    "latitude": 48.85533047196,
+    "longitude": 9.18645322323,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3143",
+    "name": "Sensor 3143",
+    "districtId": "vaihingen",
+    "latitude": 48.730567,
+    "longitude": 9.115744,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "31438",
+    "name": "Sensor 31438",
+    "districtId": "mitte",
+    "latitude": 48.872,
+    "longitude": 9.22,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "31440",
+    "name": "Sensor 31440",
+    "districtId": "mitte",
+    "latitude": 48.6801005,
+    "longitude": 9.02287078718,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "31594",
+    "name": "Sensor 31594",
+    "districtId": "mitte",
+    "latitude": 48.726,
+    "longitude": 8.892,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "31746",
+    "name": "Sensor 31746",
+    "districtId": "mitte",
+    "latitude": 48.974,
+    "longitude": 8.462,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "32102",
+    "name": "Sensor 32102",
+    "districtId": "mitte",
+    "latitude": 48.5963299,
+    "longitude": 9.2751603,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "32138",
+    "name": "Sensor 32138",
+    "districtId": "plieningen",
+    "latitude": 48.7,
+    "longitude": 9.21,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "32146",
+    "name": "Sensor 32146",
+    "districtId": "mitte",
+    "latitude": 49.112,
+    "longitude": 8.598,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "32292",
+    "name": "Sensor 32292",
+    "districtId": "mitte",
+    "latitude": 48.608,
+    "longitude": 8.838,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "32297",
+    "name": "Sensor 32297",
+    "districtId": "mitte",
+    "latitude": 48.984,
+    "longitude": 8.548,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "32533",
+    "name": "Sensor 32533",
+    "districtId": "mitte",
+    "latitude": 48.58,
+    "longitude": 8.912,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3255",
+    "name": "Sensor 3255",
+    "districtId": "mitte",
+    "latitude": 48.504,
+    "longitude": 9.224,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "32788",
+    "name": "Sensor 32788",
+    "districtId": "mitte",
+    "latitude": 48.98,
+    "longitude": 8.41,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "33830",
+    "name": "Sensor 33830",
+    "districtId": "mitte",
+    "latitude": 48.834,
+    "longitude": 8.732,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3405",
+    "name": "Sensor 3405",
+    "districtId": "mitte",
+    "latitude": 48.682,
+    "longitude": 9.016,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "34176",
+    "name": "Sensor 34176",
+    "districtId": "mitte",
+    "latitude": 49.074,
+    "longitude": 9.158,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "34272",
+    "name": "Sensor 34272",
+    "districtId": "mitte",
+    "latitude": 48.88737943806,
+    "longitude": 9.15676385164,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "35267",
+    "name": "Sensor 35267",
+    "districtId": "mitte",
+    "latitude": 48.926209,
+    "longitude": 8.374409,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "35392",
+    "name": "Sensor 35392",
+    "districtId": "feuerbach",
+    "latitude": 48.81315039747,
+    "longitude": 9.15812641382,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "35578",
+    "name": "Sensor 35578",
+    "districtId": "mitte",
+    "latitude": 48.9,
+    "longitude": 9.188,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3589",
+    "name": "Sensor 3589",
+    "districtId": "mitte",
+    "latitude": 48.47,
+    "longitude": 9.226,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "359",
+    "name": "Sensor 359",
+    "districtId": "mitte",
+    "latitude": 48.872,
+    "longitude": 9.226,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3591",
+    "name": "Sensor 3591",
+    "districtId": "vaihingen",
+    "latitude": 48.72,
+    "longitude": 9.094,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "36311",
+    "name": "Sensor 36311",
+    "districtId": "mitte",
+    "latitude": 49.0427483,
+    "longitude": 8.7194956177,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "36611",
+    "name": "Sensor 36611",
+    "districtId": "mitte",
+    "latitude": 49.07890652154,
+    "longitude": 9.09925192595,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3704",
+    "name": "Sensor 3704",
+    "districtId": "mitte",
+    "latitude": 48.918,
+    "longitude": 9.438,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "37047",
+    "name": "Sensor 37047",
+    "districtId": "ost",
+    "latitude": 48.78,
+    "longitude": 9.21,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "37239",
+    "name": "Sensor 37239",
+    "districtId": "sued",
+    "latitude": 48.76,
+    "longitude": 9.178,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "37515",
+    "name": "Sensor 37515",
+    "districtId": "mitte",
+    "latitude": 48.8892738,
+    "longitude": 9.11904815243,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3769",
+    "name": "Sensor 3769",
+    "districtId": "mitte",
+    "latitude": 48.89,
+    "longitude": 9.19,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "37785",
+    "name": "Sensor 37785",
+    "districtId": "mitte",
+    "latitude": 48.784,
+    "longitude": 9.336,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3789",
+    "name": "Sensor 3789",
+    "districtId": "mitte",
+    "latitude": 49.042,
+    "longitude": 9.028,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "38047",
+    "name": "Sensor 38047",
+    "districtId": "mitte",
+    "latitude": 48.8325646,
+    "longitude": 9.1173045749,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "38142",
+    "name": "Sensor 38142",
+    "districtId": "ost",
+    "latitude": 48.782,
+    "longitude": 9.214,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "38238",
+    "name": "Sensor 38238",
+    "districtId": "mitte",
+    "latitude": 48.9,
+    "longitude": 9.188,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3847",
+    "name": "Sensor 3847",
+    "districtId": "moehringen",
+    "latitude": 48.72,
+    "longitude": 9.166,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "38725",
+    "name": "Sensor 38725",
+    "districtId": "mitte",
+    "latitude": 48.906,
+    "longitude": 8.808,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "38865",
+    "name": "Sensor 38865",
+    "districtId": "mitte",
+    "latitude": 48.984,
+    "longitude": 8.394,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3918",
+    "name": "Sensor 3918",
+    "districtId": "mitte",
+    "latitude": 48.67,
+    "longitude": 8.994,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3941",
+    "name": "Sensor 3941",
+    "districtId": "mitte",
+    "latitude": 48.592,
+    "longitude": 8.85,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "3953",
+    "name": "Sensor 3953",
+    "districtId": "mitte",
+    "latitude": 48.682,
+    "longitude": 9.03,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "39620",
+    "name": "Sensor 39620",
+    "districtId": "mitte",
+    "latitude": 48.686,
+    "longitude": 9.17,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "39738",
+    "name": "Sensor 39738",
+    "districtId": "mitte",
+    "latitude": 48.286,
+    "longitude": 8.484,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4011",
+    "name": "Sensor 4011",
+    "districtId": "mitte",
+    "latitude": 48.682,
+    "longitude": 9.024,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "40573",
+    "name": "Sensor 40573",
+    "districtId": "mitte",
+    "latitude": 49.02,
+    "longitude": 8.644,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "40675",
+    "name": "Sensor 40675",
+    "districtId": "mitte",
+    "latitude": 48.75,
+    "longitude": 9.314,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "40815",
+    "name": "Sensor 40815",
+    "districtId": "ost",
+    "latitude": 48.788,
+    "longitude": 9.214,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "41139",
+    "name": "Sensor 41139",
+    "districtId": "mitte",
+    "latitude": 48.784,
+    "longitude": 9.192,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "41263",
+    "name": "Sensor 41263",
+    "districtId": "mitte",
+    "latitude": 48.714,
+    "longitude": 9.414,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "41665",
+    "name": "Sensor 41665",
+    "districtId": "mitte",
+    "latitude": 48.6674961,
+    "longitude": 9.11986437941,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "417",
+    "name": "Sensor 417",
+    "districtId": "mitte",
+    "latitude": 48.53,
+    "longitude": 9.2,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "41755",
+    "name": "Sensor 41755",
+    "districtId": "mitte",
+    "latitude": 48.48,
+    "longitude": 9.258,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "41935",
+    "name": "Sensor 41935",
+    "districtId": "mitte",
+    "latitude": 48.69099245,
+    "longitude": 9.40969990469,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "422",
+    "name": "Sensor 422",
+    "districtId": "degerloch",
+    "latitude": 48.752,
+    "longitude": 9.18,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4244",
+    "name": "Sensor 4244",
+    "districtId": "mitte",
+    "latitude": 48.502,
+    "longitude": 9.194,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "42600",
+    "name": "Sensor 42600",
+    "districtId": "mitte",
+    "latitude": 48.856,
+    "longitude": 9.088,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "42746",
+    "name": "Sensor 42746",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.8108013,
+    "longitude": 9.22781130335,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "428",
+    "name": "Sensor 428",
+    "districtId": "mitte",
+    "latitude": 48.758,
+    "longitude": 9.29,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "42802",
+    "name": "Sensor 42802",
+    "districtId": "mitte",
+    "latitude": 48.682,
+    "longitude": 9.022,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4311",
+    "name": "Sensor 4311",
+    "districtId": "mitte",
+    "latitude": 49.086,
+    "longitude": 9.284,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4313",
+    "name": "Sensor 4313",
+    "districtId": "nord",
+    "latitude": 48.794,
+    "longitude": 9.182,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "43152",
+    "name": "Sensor 43152",
+    "districtId": "mitte",
+    "latitude": 49.064,
+    "longitude": 9.29,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "43319",
+    "name": "Sensor 43319",
+    "districtId": "mitte",
+    "latitude": 48.722,
+    "longitude": 9.332,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "434",
+    "name": "Sensor 434",
+    "districtId": "mitte",
+    "latitude": 48.942,
+    "longitude": 9.256,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "43740",
+    "name": "Sensor 43740",
+    "districtId": "mitte",
+    "latitude": 48.708,
+    "longitude": 9.29,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4389",
+    "name": "Sensor 4389",
+    "districtId": "mitte",
+    "latitude": 48.982,
+    "longitude": 8.406,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "44222",
+    "name": "Sensor 44222",
+    "districtId": "mitte",
+    "latitude": 48.804,
+    "longitude": 9.386,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "44248",
+    "name": "Sensor 44248",
+    "districtId": "mitte",
+    "latitude": 48.718,
+    "longitude": 9.272,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4460",
+    "name": "Sensor 4460",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.812,
+    "longitude": 9.232,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "44830",
+    "name": "Sensor 44830",
+    "districtId": "mitte",
+    "latitude": 48.8286,
+    "longitude": 9.05999,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "44850",
+    "name": "Sensor 44850",
+    "districtId": "mitte",
+    "latitude": 48.714,
+    "longitude": 9.386,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4508",
+    "name": "Sensor 4508",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.816,
+    "longitude": 9.23,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "45248",
+    "name": "Sensor 45248",
+    "districtId": "mitte",
+    "latitude": 48.4909749,
+    "longitude": 9.2005619,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "45308",
+    "name": "Sensor 45308",
+    "districtId": "mitte",
+    "latitude": 48.68692684742,
+    "longitude": 8.95617753267,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "45544",
+    "name": "Sensor 45544",
+    "districtId": "sillenbuch",
+    "latitude": 48.73794221382,
+    "longitude": 9.21572327611,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4555",
+    "name": "Sensor 4555",
+    "districtId": "mitte",
+    "latitude": 48.674,
+    "longitude": 9.018,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "45650",
+    "name": "Sensor 45650",
+    "districtId": "mitte",
+    "latitude": 48.858,
+    "longitude": 8.53,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4589",
+    "name": "Sensor 4589",
+    "districtId": "mitte",
+    "latitude": 48.448,
+    "longitude": 9.216,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4597",
+    "name": "Sensor 4597",
+    "districtId": "mitte",
+    "latitude": 48.646,
+    "longitude": 8.906,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "45970",
+    "name": "Sensor 45970",
+    "districtId": "mitte",
+    "latitude": 48.982,
+    "longitude": 8.394,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4601",
+    "name": "Sensor 4601",
+    "districtId": "mitte",
+    "latitude": 48.552,
+    "longitude": 9.37,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "46032",
+    "name": "Sensor 46032",
+    "districtId": "mitte",
+    "latitude": 48.88644,
+    "longitude": 9.00029,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "46337",
+    "name": "Sensor 46337",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.82851,
+    "longitude": 9.235728,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4636",
+    "name": "Sensor 4636",
+    "districtId": "feuerbach",
+    "latitude": 48.806,
+    "longitude": 9.14,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "46363",
+    "name": "Sensor 46363",
+    "districtId": "mitte",
+    "latitude": 49.036,
+    "longitude": 9.344,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "46443",
+    "name": "Sensor 46443",
+    "districtId": "mitte",
+    "latitude": 48.96216465,
+    "longitude": 8.33768801541,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4652",
+    "name": "Sensor 4652",
+    "districtId": "mitte",
+    "latitude": 48.738,
+    "longitude": 9.306,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "46589",
+    "name": "Sensor 46589",
+    "districtId": "mitte",
+    "latitude": 48.722,
+    "longitude": 9.362,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "46591",
+    "name": "Sensor 46591",
+    "districtId": "mitte",
+    "latitude": 48.748,
+    "longitude": 9.656,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4786",
+    "name": "Sensor 4786",
+    "districtId": "mitte",
+    "latitude": 48.832,
+    "longitude": 9.422,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "479",
+    "name": "Sensor 479",
+    "districtId": "mitte",
+    "latitude": 48.606,
+    "longitude": 9.096,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "48056",
+    "name": "Sensor 48056",
+    "districtId": "mitte",
+    "latitude": 48.60367,
+    "longitude": 9.34161,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "4837",
+    "name": "Sensor 4837",
+    "districtId": "west",
+    "latitude": 48.768,
+    "longitude": 9.154,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "485",
+    "name": "Sensor 485",
+    "districtId": "mitte",
+    "latitude": 48.734,
+    "longitude": 9.34,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "48743",
+    "name": "Sensor 48743",
+    "districtId": "zuffenhausen",
+    "latitude": 48.836,
+    "longitude": 9.174,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "48751",
+    "name": "Sensor 48751",
+    "districtId": "zuffenhausen",
+    "latitude": 48.836,
+    "longitude": 9.174,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "48791",
+    "name": "Sensor 48791",
+    "districtId": "mitte",
+    "latitude": 48.816,
+    "longitude": 9.42,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "49410",
+    "name": "Sensor 49410",
+    "districtId": "mitte",
+    "latitude": 49.042181,
+    "longitude": 8.7188199,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "495",
+    "name": "Sensor 495",
+    "districtId": "mitte",
+    "latitude": 48.63,
+    "longitude": 9.162,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "49502",
+    "name": "Sensor 49502",
+    "districtId": "ost",
+    "latitude": 48.776,
+    "longitude": 9.204,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "49610",
+    "name": "Sensor 49610",
+    "districtId": "sued",
+    "latitude": 48.766,
+    "longitude": 9.176,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "49842",
+    "name": "Sensor 49842",
+    "districtId": "mitte",
+    "latitude": 48.898,
+    "longitude": 9.184,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "49860",
+    "name": "Sensor 49860",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.826,
+    "longitude": 9.238,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "49944",
+    "name": "Sensor 49944",
+    "districtId": "mitte",
+    "latitude": 49.134,
+    "longitude": 9.212,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "50012",
+    "name": "Sensor 50012",
+    "districtId": "mitte",
+    "latitude": 48.694,
+    "longitude": 9.476,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "505",
+    "name": "Sensor 505",
+    "districtId": "mitte",
+    "latitude": 48.524,
+    "longitude": 9.056,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5054",
+    "name": "Sensor 5054",
+    "districtId": "mitte",
+    "latitude": 48.99,
+    "longitude": 8.346,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "50773",
+    "name": "Sensor 50773",
+    "districtId": "mitte",
+    "latitude": 48.544,
+    "longitude": 8.918,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "50932",
+    "name": "Sensor 50932",
+    "districtId": "mitte",
+    "latitude": 49.006,
+    "longitude": 9.292,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5127",
+    "name": "Sensor 5127",
+    "districtId": "mitte",
+    "latitude": 48.77,
+    "longitude": 9.19,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "52136",
+    "name": "Sensor 52136",
+    "districtId": "mitte",
+    "latitude": 48.814,
+    "longitude": 9.008,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "529",
+    "name": "Sensor 529",
+    "districtId": "plieningen",
+    "latitude": 48.7038062,
+    "longitude": 9.2100006,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "53000",
+    "name": "Sensor 53000",
+    "districtId": "zuffenhausen",
+    "latitude": 48.84054385,
+    "longitude": 9.18906703997,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5341",
+    "name": "Sensor 5341",
+    "districtId": "mitte",
+    "latitude": 48.822,
+    "longitude": 9.062,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5343",
+    "name": "Sensor 5343",
+    "districtId": "mitte",
+    "latitude": 48.95443897136,
+    "longitude": 8.92760932446,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "53718",
+    "name": "Sensor 53718",
+    "districtId": "mitte",
+    "latitude": 48.872,
+    "longitude": 9.39,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "54705",
+    "name": "Sensor 54705",
+    "districtId": "mitte",
+    "latitude": 48.774,
+    "longitude": 8.916,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "55120",
+    "name": "Sensor 55120",
+    "districtId": "mitte",
+    "latitude": 48.512,
+    "longitude": 9.036,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "55262",
+    "name": "Sensor 55262",
+    "districtId": "degerloch",
+    "latitude": 48.752,
+    "longitude": 9.168,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "55603",
+    "name": "Sensor 55603",
+    "districtId": "mitte",
+    "latitude": 48.838,
+    "longitude": 9.33,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "55647",
+    "name": "Sensor 55647",
+    "districtId": "hedelfingen",
+    "latitude": 48.756,
+    "longitude": 9.246,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "56357",
+    "name": "Sensor 56357",
+    "districtId": "mitte",
+    "latitude": 48.491752,
+    "longitude": 9.033272,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5646",
+    "name": "Sensor 5646",
+    "districtId": "mitte",
+    "latitude": 48.626,
+    "longitude": 9.362,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "568",
+    "name": "Sensor 568",
+    "districtId": "mitte",
+    "latitude": 48.884,
+    "longitude": 9.192,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5694",
+    "name": "Sensor 5694",
+    "districtId": "mitte",
+    "latitude": 48.874,
+    "longitude": 9.358,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "57653",
+    "name": "Sensor 57653",
+    "districtId": "mitte",
+    "latitude": 48.84021785,
+    "longitude": 9.3686639961,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "57856",
+    "name": "Sensor 57856",
+    "districtId": "mitte",
+    "latitude": 48.65,
+    "longitude": 9.29,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5929",
+    "name": "Sensor 5929",
+    "districtId": "sillenbuch",
+    "latitude": 48.746,
+    "longitude": 9.236,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "5981",
+    "name": "Sensor 5981",
+    "districtId": "mitte",
+    "latitude": 48.73,
+    "longitude": 9.336,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "60374",
+    "name": "Sensor 60374",
+    "districtId": "nord",
+    "latitude": 48.792,
+    "longitude": 9.172,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "60588",
+    "name": "Sensor 60588",
+    "districtId": "mitte",
+    "latitude": 48.61,
+    "longitude": 9.334,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "60819",
+    "name": "Sensor 60819",
+    "districtId": "mitte",
+    "latitude": 48.904,
+    "longitude": 9.126,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "60969",
+    "name": "Sensor 60969",
+    "districtId": "mitte",
+    "latitude": 48.938,
+    "longitude": 9.502,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "61277",
+    "name": "Sensor 61277",
+    "districtId": "mitte",
+    "latitude": 48.7808602,
+    "longitude": 8.73370544893,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "61644",
+    "name": "Sensor 61644",
+    "districtId": "mitte",
+    "latitude": 48.6867963,
+    "longitude": 8.9972475,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "61768",
+    "name": "Sensor 61768",
+    "districtId": "mitte",
+    "latitude": 48.712,
+    "longitude": 9.016,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "62463",
+    "name": "Sensor 62463",
+    "districtId": "mitte",
+    "latitude": 48.552,
+    "longitude": 9.38,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "63263",
+    "name": "Sensor 63263",
+    "districtId": "mitte",
+    "latitude": 48.67227425,
+    "longitude": 9.52831895,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6332",
+    "name": "Sensor 6332",
+    "districtId": "mitte",
+    "latitude": 49.102,
+    "longitude": 8.856,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "63320",
+    "name": "Sensor 63320",
+    "districtId": "mitte",
+    "latitude": 48.8,
+    "longitude": 9.534,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "63335",
+    "name": "Sensor 63335",
+    "districtId": "mitte",
+    "latitude": 48.66829,
+    "longitude": 9.00814,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "63386",
+    "name": "Sensor 63386",
+    "districtId": "mitte",
+    "latitude": 48.84469093366,
+    "longitude": 8.92083227645,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "63649",
+    "name": "Sensor 63649",
+    "districtId": "mitte",
+    "latitude": 48.8323865,
+    "longitude": 9.3075017563,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "64607",
+    "name": "Sensor 64607",
+    "districtId": "mitte",
+    "latitude": 49.01254021694,
+    "longitude": 8.36510449648,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "647",
+    "name": "Sensor 647",
+    "districtId": "mitte",
+    "latitude": 49.006,
+    "longitude": 9.06,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6485",
+    "name": "Sensor 6485",
+    "districtId": "mitte",
+    "latitude": 48.49,
+    "longitude": 9.222,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6517",
+    "name": "Sensor 6517",
+    "districtId": "mitte",
+    "latitude": 48.944,
+    "longitude": 9.24,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6551",
+    "name": "Sensor 6551",
+    "districtId": "mitte",
+    "latitude": 48.708,
+    "longitude": 9.29,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "65971",
+    "name": "Sensor 65971",
+    "districtId": "stammheim",
+    "latitude": 48.852,
+    "longitude": 9.152,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "66281",
+    "name": "Sensor 66281",
+    "districtId": "mitte",
+    "latitude": 49.0788722,
+    "longitude": 9.4627476,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "66367",
+    "name": "Sensor 66367",
+    "districtId": "mitte",
+    "latitude": 48.98307545,
+    "longitude": 8.39841708622,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6661",
+    "name": "Sensor 6661",
+    "districtId": "mitte",
+    "latitude": 48.714,
+    "longitude": 8.994,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "673",
+    "name": "Sensor 673",
+    "districtId": "sued",
+    "latitude": 48.764,
+    "longitude": 9.174,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "67595",
+    "name": "Sensor 67595",
+    "districtId": "mitte",
+    "latitude": 48.694,
+    "longitude": 8.934,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "679",
+    "name": "Sensor 679",
+    "districtId": "muehlhausen",
+    "latitude": 48.846,
+    "longitude": 9.23,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6791",
+    "name": "Sensor 6791",
+    "districtId": "vaihingen",
+    "latitude": 48.73,
+    "longitude": 9.108,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6809",
+    "name": "Sensor 6809",
+    "districtId": "weilimdorf",
+    "latitude": 48.812,
+    "longitude": 9.112,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "6828",
+    "name": "Sensor 6828",
+    "districtId": "mitte",
+    "latitude": 48.592,
+    "longitude": 8.868,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "69030",
+    "name": "Sensor 69030",
+    "districtId": "mitte",
+    "latitude": 48.774,
+    "longitude": 8.942,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "69083",
+    "name": "Sensor 69083",
+    "districtId": "mitte",
+    "latitude": 48.526,
+    "longitude": 9.044,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "69358",
+    "name": "Sensor 69358",
+    "districtId": "mitte",
+    "latitude": 49.066,
+    "longitude": 8.66,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "69410",
+    "name": "Sensor 69410",
+    "districtId": "mitte",
+    "latitude": 48.464,
+    "longitude": 9.442,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "69437",
+    "name": "Sensor 69437",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.81132403114,
+    "longitude": 9.23109859228,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "69734",
+    "name": "Sensor 69734",
+    "districtId": "mitte",
+    "latitude": 48.64538912695,
+    "longitude": 9.14069366424,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "69997",
+    "name": "Sensor 69997",
+    "districtId": "mitte",
+    "latitude": 49.046,
+    "longitude": 8.468,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "70324",
+    "name": "Sensor 70324",
+    "districtId": "mitte",
+    "latitude": 48.98129715,
+    "longitude": 9.5837124,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "70946",
+    "name": "Sensor 70946",
+    "districtId": "mitte",
+    "latitude": 48.702,
+    "longitude": 8.76,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "71001",
+    "name": "Sensor 71001",
+    "districtId": "mitte",
+    "latitude": 49.03871915,
+    "longitude": 8.44078900718,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "71046",
+    "name": "Sensor 71046",
+    "districtId": "mitte",
+    "latitude": 48.978,
+    "longitude": 8.982,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7142",
+    "name": "Sensor 7142",
+    "districtId": "mitte",
+    "latitude": 48.902,
+    "longitude": 9.204,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7150",
+    "name": "Sensor 7150",
+    "districtId": "zuffenhausen",
+    "latitude": 48.836,
+    "longitude": 9.172,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "71556",
+    "name": "Sensor 71556",
+    "districtId": "mitte",
+    "latitude": 48.728,
+    "longitude": 9.386,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7173",
+    "name": "Sensor 7173",
+    "districtId": "mitte",
+    "latitude": 48.654,
+    "longitude": 8.932,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "71981",
+    "name": "Sensor 71981",
+    "districtId": "mitte",
+    "latitude": 48.62712128427,
+    "longitude": 8.71240144596,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "72013",
+    "name": "Sensor 72013",
+    "districtId": "mitte",
+    "latitude": 49.0370662,
+    "longitude": 9.4521475,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "72273",
+    "name": "Sensor 72273",
+    "districtId": "mitte",
+    "latitude": 48.692,
+    "longitude": 8.948,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "727",
+    "name": "Sensor 727",
+    "districtId": "west",
+    "latitude": 48.78,
+    "longitude": 9.158,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "73642",
+    "name": "Sensor 73642",
+    "districtId": "mitte",
+    "latitude": 48.652,
+    "longitude": 9.292,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "73877",
+    "name": "Sensor 73877",
+    "districtId": "mitte",
+    "latitude": 49.029336407,
+    "longitude": 8.57195109129,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "74055",
+    "name": "Sensor 74055",
+    "districtId": "mitte",
+    "latitude": 49.0591847,
+    "longitude": 9.28013531334,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7410",
+    "name": "Sensor 7410",
+    "districtId": "mitte",
+    "latitude": 48.628,
+    "longitude": 9.058,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "74821",
+    "name": "Sensor 74821",
+    "districtId": "mitte",
+    "latitude": 48.702,
+    "longitude": 8.884,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7497",
+    "name": "Sensor 7497",
+    "districtId": "feuerbach",
+    "latitude": 48.806,
+    "longitude": 9.14,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7511",
+    "name": "Sensor 7511",
+    "districtId": "west",
+    "latitude": 48.78,
+    "longitude": 9.146,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7517",
+    "name": "Sensor 7517",
+    "districtId": "mitte",
+    "latitude": 48.922,
+    "longitude": 9.444,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7527",
+    "name": "Sensor 7527",
+    "districtId": "mitte",
+    "latitude": 49.006,
+    "longitude": 8.514,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7531",
+    "name": "Sensor 7531",
+    "districtId": "mitte",
+    "latitude": 49.03,
+    "longitude": 8.714,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7561",
+    "name": "Sensor 7561",
+    "districtId": "mitte",
+    "latitude": 48.784,
+    "longitude": 9.174,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "75634",
+    "name": "Sensor 75634",
+    "districtId": "vaihingen",
+    "latitude": 48.724,
+    "longitude": 9.104,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7587",
+    "name": "Sensor 7587",
+    "districtId": "mitte",
+    "latitude": 48.85,
+    "longitude": 8.938,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "76053",
+    "name": "Sensor 76053",
+    "districtId": "mitte",
+    "latitude": 48.87,
+    "longitude": 9.082,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "76065",
+    "name": "Sensor 76065",
+    "districtId": "mitte",
+    "latitude": 48.928,
+    "longitude": 8.474,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "769",
+    "name": "Sensor 769",
+    "districtId": "mitte",
+    "latitude": 48.698,
+    "longitude": 9.116,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7707",
+    "name": "Sensor 7707",
+    "districtId": "mitte",
+    "latitude": 48.758,
+    "longitude": 8.888,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "773",
+    "name": "Sensor 773",
+    "districtId": "stammheim",
+    "latitude": 48.846,
+    "longitude": 9.16,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "77318",
+    "name": "Sensor 77318",
+    "districtId": "mitte",
+    "latitude": 49.00246325,
+    "longitude": 8.39059748872,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "77432",
+    "name": "Sensor 77432",
+    "districtId": "mitte",
+    "latitude": 48.576,
+    "longitude": 8.876,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "77513",
+    "name": "Sensor 77513",
+    "districtId": "mitte",
+    "latitude": 48.872,
+    "longitude": 9.084,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "77573",
+    "name": "Sensor 77573",
+    "districtId": "mitte",
+    "latitude": 48.868,
+    "longitude": 9.08,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7759",
+    "name": "Sensor 7759",
+    "districtId": "mitte",
+    "latitude": 48.83,
+    "longitude": 9.262,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "78228",
+    "name": "Sensor 78228",
+    "districtId": "mitte",
+    "latitude": 49.082,
+    "longitude": 9.152,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7823",
+    "name": "Sensor 7823",
+    "districtId": "mitte",
+    "latitude": 48.619478,
+    "longitude": 9.053031,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7843",
+    "name": "Sensor 7843",
+    "districtId": "mitte",
+    "latitude": 48.702,
+    "longitude": 9.326,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "79241",
+    "name": "Sensor 79241",
+    "districtId": "vaihingen",
+    "latitude": 48.72,
+    "longitude": 9.118,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "79259",
+    "name": "Sensor 79259",
+    "districtId": "mitte",
+    "latitude": 48.7530662,
+    "longitude": 8.8633021087,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "793",
+    "name": "Sensor 793",
+    "districtId": "sillenbuch",
+    "latitude": 48.738,
+    "longitude": 9.214,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7933",
+    "name": "Sensor 7933",
+    "districtId": "mitte",
+    "latitude": 48.896,
+    "longitude": 9.192,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "79359",
+    "name": "Sensor 79359",
+    "districtId": "mitte",
+    "latitude": 48.9609909,
+    "longitude": 9.0156252,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "7939",
+    "name": "Sensor 7939",
+    "districtId": "mitte",
+    "latitude": 48.888,
+    "longitude": 9.226,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8001",
+    "name": "Sensor 8001",
+    "districtId": "mitte",
+    "latitude": 48.774,
+    "longitude": 8.732,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8104",
+    "name": "Sensor 8104",
+    "districtId": "mitte",
+    "latitude": 48.942,
+    "longitude": 9.104,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "813",
+    "name": "Sensor 813",
+    "districtId": "mitte",
+    "latitude": 48.71,
+    "longitude": 9.392,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "81394",
+    "name": "Sensor 81394",
+    "districtId": "mitte",
+    "latitude": 49.02890077029,
+    "longitude": 8.45372137472,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8175",
+    "name": "Sensor 8175",
+    "districtId": "vaihingen",
+    "latitude": 48.718,
+    "longitude": 9.1,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8177",
+    "name": "Sensor 8177",
+    "districtId": "sued",
+    "latitude": 48.74,
+    "longitude": 9.132,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8183",
+    "name": "Sensor 8183",
+    "districtId": "vaihingen",
+    "latitude": 48.752,
+    "longitude": 9.088,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "82176",
+    "name": "Sensor 82176",
+    "districtId": "mitte",
+    "latitude": 48.714,
+    "longitude": 9.584,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8225",
+    "name": "Sensor 8225",
+    "districtId": "mitte",
+    "latitude": 48.81,
+    "longitude": 9.012,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8317",
+    "name": "Sensor 8317",
+    "districtId": "mitte",
+    "latitude": 48.926,
+    "longitude": 8.964,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8327",
+    "name": "Sensor 8327",
+    "districtId": "mitte",
+    "latitude": 48.754,
+    "longitude": 8.864,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "83423",
+    "name": "Sensor 83423",
+    "districtId": "mitte",
+    "latitude": 49.044,
+    "longitude": 8.686,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "83769",
+    "name": "Sensor 83769",
+    "districtId": "mitte",
+    "latitude": 48.936,
+    "longitude": 9.3,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "83999",
+    "name": "Sensor 83999",
+    "districtId": "mitte",
+    "latitude": 49.033368,
+    "longitude": 8.6813587,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8401",
+    "name": "Sensor 8401",
+    "districtId": "mitte",
+    "latitude": 48.404,
+    "longitude": 9.498,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "84021",
+    "name": "Sensor 84021",
+    "districtId": "mitte",
+    "latitude": 48.636,
+    "longitude": 9.492,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8407",
+    "name": "Sensor 8407",
+    "districtId": "mitte",
+    "latitude": 48.452,
+    "longitude": 9.216,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8419",
+    "name": "Sensor 8419",
+    "districtId": "mitte",
+    "latitude": 48.55,
+    "longitude": 8.822,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "842",
+    "name": "Sensor 842",
+    "districtId": "mitte",
+    "latitude": 48.872,
+    "longitude": 9.084,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "84229",
+    "name": "Sensor 84229",
+    "districtId": "mitte",
+    "latitude": 48.46365,
+    "longitude": 9.22919,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8435",
+    "name": "Sensor 8435",
+    "districtId": "moehringen",
+    "latitude": 48.73,
+    "longitude": 9.156,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8458",
+    "name": "Sensor 8458",
+    "districtId": "feuerbach",
+    "latitude": 48.816,
+    "longitude": 9.154,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "85083",
+    "name": "Sensor 85083",
+    "districtId": "mitte",
+    "latitude": 48.49767745,
+    "longitude": 9.10360157572,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "85162",
+    "name": "Sensor 85162",
+    "districtId": "mitte",
+    "latitude": 48.526,
+    "longitude": 9.158,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "85188",
+    "name": "Sensor 85188",
+    "districtId": "mitte",
+    "latitude": 49.132,
+    "longitude": 8.922,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "85192",
+    "name": "Sensor 85192",
+    "districtId": "mitte",
+    "latitude": 48.96479036913,
+    "longitude": 9.14402604103,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "85399",
+    "name": "Sensor 85399",
+    "districtId": "mitte",
+    "latitude": 48.758,
+    "longitude": 9.29,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "85523",
+    "name": "Sensor 85523",
+    "districtId": "mitte",
+    "latitude": 48.616,
+    "longitude": 9.27,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8580",
+    "name": "Sensor 8580",
+    "districtId": "mitte",
+    "latitude": 48.622,
+    "longitude": 9.23,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "85807",
+    "name": "Sensor 85807",
+    "districtId": "mitte",
+    "latitude": 48.718,
+    "longitude": 9,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8594",
+    "name": "Sensor 8594",
+    "districtId": "mitte",
+    "latitude": 48.86,
+    "longitude": 9.198,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8636",
+    "name": "Sensor 8636",
+    "districtId": "mitte",
+    "latitude": 49.068,
+    "longitude": 8.658,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "86403",
+    "name": "Sensor 86403",
+    "districtId": "mitte",
+    "latitude": 48.738,
+    "longitude": 9.302,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8665",
+    "name": "Sensor 8665",
+    "districtId": "mitte",
+    "latitude": 48.916,
+    "longitude": 8.38,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "86701",
+    "name": "Sensor 86701",
+    "districtId": "mitte",
+    "latitude": 48.62769071769,
+    "longitude": 8.70716661215,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "87030",
+    "name": "Sensor 87030",
+    "districtId": "mitte",
+    "latitude": 48.93,
+    "longitude": 8.456,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8708",
+    "name": "Sensor 8708",
+    "districtId": "mitte",
+    "latitude": 48.678,
+    "longitude": 9.28,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8716",
+    "name": "Sensor 8716",
+    "districtId": "mitte",
+    "latitude": 48.554,
+    "longitude": 8.82,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "88519",
+    "name": "Sensor 88519",
+    "districtId": "mitte",
+    "latitude": 48.446,
+    "longitude": 8.834,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "88742",
+    "name": "Sensor 88742",
+    "districtId": "mitte",
+    "latitude": 48.716,
+    "longitude": 9.268,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8881",
+    "name": "Sensor 8881",
+    "districtId": "degerloch",
+    "latitude": 48.736,
+    "longitude": 9.176,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8893",
+    "name": "Sensor 8893",
+    "districtId": "mitte",
+    "latitude": 48.622,
+    "longitude": 9.23,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "89009",
+    "name": "Sensor 89009",
+    "districtId": "mitte",
+    "latitude": 48.9021059,
+    "longitude": 9.4104799913,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8909",
+    "name": "Sensor 8909",
+    "districtId": "mitte",
+    "latitude": 49.072,
+    "longitude": 8.804,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8929",
+    "name": "Sensor 8929",
+    "districtId": "mitte",
+    "latitude": 49.074,
+    "longitude": 9.11,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "8938",
+    "name": "Sensor 8938",
+    "districtId": "feuerbach",
+    "latitude": 48.81,
+    "longitude": 9.172,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "89392",
+    "name": "Sensor 89392",
+    "districtId": "obertuerkheim",
+    "latitude": 48.778,
+    "longitude": 9.276,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "89445",
+    "name": "Sensor 89445",
+    "districtId": "mitte",
+    "latitude": 48.31493445,
+    "longitude": 8.37837634371,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "90099",
+    "name": "Sensor 90099",
+    "districtId": "mitte",
+    "latitude": 48.675973,
+    "longitude": 9.383791,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "90115",
+    "name": "Sensor 90115",
+    "districtId": "mitte",
+    "latitude": 48.87918228962,
+    "longitude": 9.27530348299,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "90151",
+    "name": "Sensor 90151",
+    "districtId": "mitte",
+    "latitude": 48.662,
+    "longitude": 8.696,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "90839",
+    "name": "Sensor 90839",
+    "districtId": "vaihingen",
+    "latitude": 48.732,
+    "longitude": 9.114,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "90887",
+    "name": "Sensor 90887",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.804,
+    "longitude": 9.228,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "90914",
+    "name": "Sensor 90914",
+    "districtId": "mitte",
+    "latitude": 48.97,
+    "longitude": 8.41,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "90928",
+    "name": "Sensor 90928",
+    "districtId": "mitte",
+    "latitude": 49.02,
+    "longitude": 9.204,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "91022",
+    "name": "Sensor 91022",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.80566081278,
+    "longitude": 9.24062848091,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "91091",
+    "name": "Sensor 91091",
+    "districtId": "mitte",
+    "latitude": 48.5210246,
+    "longitude": 9.0480494246,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "9138",
+    "name": "Sensor 9138",
+    "districtId": "mitte",
+    "latitude": 48.616,
+    "longitude": 9.548,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "91543",
+    "name": "Sensor 91543",
+    "districtId": "mitte",
+    "latitude": 48.52676155,
+    "longitude": 9.05950314191,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "91787",
+    "name": "Sensor 91787",
+    "districtId": "mitte",
+    "latitude": 48.89246585895,
+    "longitude": 8.96931231022,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "9186",
+    "name": "Sensor 9186",
+    "districtId": "mitte",
+    "latitude": 49.04,
+    "longitude": 9.584,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "92569",
+    "name": "Sensor 92569",
+    "districtId": "mitte",
+    "latitude": 48.386,
+    "longitude": 8.984,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "93084",
+    "name": "Sensor 93084",
+    "districtId": "mitte",
+    "latitude": 49.082,
+    "longitude": 8.562,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "93281",
+    "name": "Sensor 93281",
+    "districtId": "mitte",
+    "latitude": 48.6385,
+    "longitude": 9.459,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "93462",
+    "name": "Sensor 93462",
+    "districtId": "mitte",
+    "latitude": 48.714,
+    "longitude": 9.472,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "9370",
+    "name": "Sensor 9370",
+    "districtId": "mitte",
+    "latitude": 48.384,
+    "longitude": 8.984,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "93765",
+    "name": "Sensor 93765",
+    "districtId": "ost",
+    "latitude": 48.7857666,
+    "longitude": 9.2017612,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "93851",
+    "name": "Sensor 93851",
+    "districtId": "mitte",
+    "latitude": 48.4042872,
+    "longitude": 9.0456135,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "93873",
+    "name": "Sensor 93873",
+    "districtId": "mitte",
+    "latitude": 48.712,
+    "longitude": 8.918,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "94012",
+    "name": "Sensor 94012",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.8054294,
+    "longitude": 9.2197646,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "94133",
+    "name": "Sensor 94133",
+    "districtId": "mitte",
+    "latitude": 48.392,
+    "longitude": 9.03,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "94175",
+    "name": "Sensor 94175",
+    "districtId": "mitte",
+    "latitude": 48.708,
+    "longitude": 9.004,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "944",
+    "name": "Sensor 944",
+    "districtId": "mitte",
+    "latitude": 48.676,
+    "longitude": 9.034,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "946",
+    "name": "Sensor 946",
+    "districtId": "moehringen",
+    "latitude": 48.734,
+    "longitude": 9.152,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "9465",
+    "name": "Sensor 9465",
+    "districtId": "mitte",
+    "latitude": 48.726,
+    "longitude": 9.006,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "9485",
+    "name": "Sensor 9485",
+    "districtId": "ost",
+    "latitude": 48.776,
+    "longitude": 9.2,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "94949",
+    "name": "Sensor 94949",
+    "districtId": "west",
+    "latitude": 48.768,
+    "longitude": 9.162,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "95380",
+    "name": "Sensor 95380",
+    "districtId": "feuerbach",
+    "latitude": 48.81849016493,
+    "longitude": 9.16959643375,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "95729",
+    "name": "Sensor 95729",
+    "districtId": "mitte",
+    "latitude": 49.01,
+    "longitude": 8.43,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "95731",
+    "name": "Sensor 95731",
+    "districtId": "mitte",
+    "latitude": 48.768,
+    "longitude": 8.98,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "95850",
+    "name": "Sensor 95850",
+    "districtId": "mitte",
+    "latitude": 48.964,
+    "longitude": 8.856,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "95914",
+    "name": "Sensor 95914",
+    "districtId": "mitte",
+    "latitude": 49.002,
+    "longitude": 8.472,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "96085",
+    "name": "Sensor 96085",
+    "districtId": "mitte",
+    "latitude": 49.00759121663,
+    "longitude": 8.3763885498,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "96275",
+    "name": "Sensor 96275",
+    "districtId": "mitte",
+    "latitude": 49.0763796,
+    "longitude": 8.839842,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "96471",
+    "name": "Sensor 96471",
+    "districtId": "mitte",
+    "latitude": 49.112,
+    "longitude": 8.598,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "96598",
+    "name": "Sensor 96598",
+    "districtId": "mitte",
+    "latitude": 48.824,
+    "longitude": 9.384,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "966",
+    "name": "Sensor 966",
+    "districtId": "mitte",
+    "latitude": 48.73,
+    "longitude": 9.304,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "96697",
+    "name": "Sensor 96697",
+    "districtId": "mitte",
+    "latitude": 48.97,
+    "longitude": 8.952,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "96705",
+    "name": "Sensor 96705",
+    "districtId": "mitte",
+    "latitude": 48.662,
+    "longitude": 8.696,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "96974",
+    "name": "Sensor 96974",
+    "districtId": "mitte",
+    "latitude": 48.4846499,
+    "longitude": 9.1815971,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "97084",
+    "name": "Sensor 97084",
+    "districtId": "mitte",
+    "latitude": 48.828,
+    "longitude": 9.314,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "97398",
+    "name": "Sensor 97398",
+    "districtId": "bad-cannstatt",
+    "latitude": 48.802,
+    "longitude": 9.238,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "97446",
+    "name": "Sensor 97446",
+    "districtId": "mitte",
+    "latitude": 48.536,
+    "longitude": 9.09,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "97865",
+    "name": "Sensor 97865",
+    "districtId": "mitte",
+    "latitude": 48.73895662939,
+    "longitude": 9.31829184294,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "97887",
+    "name": "Sensor 97887",
+    "districtId": "mitte",
+    "latitude": 48.518,
+    "longitude": 9.124,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "98078",
+    "name": "Sensor 98078",
+    "districtId": "mitte",
+    "latitude": 48.3,
+    "longitude": 8.934,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "9819",
+    "name": "Sensor 9819",
+    "districtId": "mitte",
+    "latitude": 48.482,
+    "longitude": 9.206,
+    "source": "Sensor.Community"
+  },
+  {
+    "id": "9900",
+    "name": "Sensor 9900",
+    "districtId": "west",
+    "latitude": 48.772,
+    "longitude": 9.154,
+    "source": "Sensor.Community"
+  }
+]
