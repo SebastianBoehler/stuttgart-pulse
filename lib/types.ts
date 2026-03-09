@@ -3,6 +3,8 @@ import type { Feature, FeatureCollection, MultiPolygon, Polygon } from "geojson"
 export type Pollutant = "PM2.5" | "NO2" | "PM10";
 export type Locale = "de" | "en";
 export type ThemeMode = "system" | "light" | "dark";
+export type SceneSourceType = "traffic" | "city" | "airport";
+export type SceneWeatherLabel = "clear" | "cloudy" | "foggy" | "rainy" | "night" | "unknown";
 
 export type DistrictProperties = {
   id: string;
@@ -122,4 +124,69 @@ export type CompareOption = {
   id: string;
   label: string;
   type: "district" | "station" | "city-average";
+};
+
+export type SceneConfig = {
+  adapter: "verkehrsinfo-bw" | "stuttgart-city" | "stuttgart-airport";
+  tags: string[];
+  statusReason?: string;
+  attribution?: string;
+  placeholderPath?: string;
+  countLine?: {
+    start: [number, number];
+    end: [number, number];
+  } | null;
+  countZone?: Array<[number, number]> | null;
+  roiMasks?: Array<Array<[number, number]>>;
+  retentionHours?: number;
+  fixtureMode?: "placeholder" | "synthetic";
+};
+
+export type SceneCameraRecord = {
+  id: string;
+  slug: string;
+  name: string;
+  source: string;
+  sourceType: SceneSourceType;
+  pageUrl: string;
+  imageUrl: string | null;
+  latitude: number;
+  longitude: number;
+  refreshSeconds: number;
+  active: boolean;
+  configJson: SceneConfig | null;
+};
+
+export type SceneSnapshotRecord = {
+  id: string;
+  cameraId: string;
+  capturedAt: string;
+  storagePath: string;
+  width: number;
+  height: number;
+  hash: string;
+  expiresAt?: string | null;
+  metadataJson?: Record<string, unknown> | null;
+};
+
+export type SceneMetricRecord = {
+  id: string;
+  cameraId: string;
+  capturedAt: string;
+  vehicleCount: number;
+  carCount: number;
+  truckCount: number;
+  busCount: number;
+  bikeCount: number;
+  motorcycleCount: number;
+  motionIndex: number | null;
+  visibilityScore: number | null;
+  weatherLabel: SceneWeatherLabel | null;
+  anomalyScore: number | null;
+  metadataJson?: Record<string, unknown> | null;
+};
+
+export type SceneCameraListItem = SceneCameraRecord & {
+  latestMetric: SceneMetricRecord | null;
+  latestSnapshot: SceneSnapshotRecord | null;
 };

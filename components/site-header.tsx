@@ -9,7 +9,7 @@ import type { Locale } from "@/lib/types";
 type SiteHeaderProps = {
   locale: Locale;
   dictionary: Dictionary;
-  pathSuffix: "" | "/explorer" | "/compare" | "/about";
+  pathSuffix: "" | "/explorer" | "/compare" | "/about" | "/scene";
 };
 
 function toHref(locale: Locale, pathSuffix: SiteHeaderProps["pathSuffix"]) {
@@ -19,6 +19,7 @@ function toHref(locale: Locale, pathSuffix: SiteHeaderProps["pathSuffix"]) {
 export function SiteHeader({ locale, dictionary, pathSuffix }: SiteHeaderProps) {
   const links = [
     { href: `/${locale}/explorer`, label: dictionary.nav.explorer },
+    { href: `/${locale}/scene`, label: dictionary.nav.scene },
     { href: `/${locale}/compare`, label: dictionary.nav.compare },
     { href: `/${locale}/about`, label: dictionary.nav.about },
   ];
@@ -33,7 +34,7 @@ export function SiteHeader({ locale, dictionary, pathSuffix }: SiteHeaderProps) 
           </div>
           <div>
             <p className="font-display text-xl leading-none">Stuttgart Pulse</p>
-            <p className="text-xs uppercase tracking-[0.18em] text-muted">Move • Breathe • Compare</p>
+            <p className="text-xs uppercase tracking-[0.18em] text-muted">Move • Breathe • Scene • Compare</p>
           </div>
         </Link>
         <div className="flex items-center gap-2 md:hidden">

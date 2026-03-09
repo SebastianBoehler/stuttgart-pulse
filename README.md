@@ -9,6 +9,7 @@ Stuttgart Pulse is a map-first open-source explorer for Stuttgart mobility and a
 
 - `Move`: roadworks, parking availability, and GTFS transit stops
 - `Breathe`: PM2.5 and NO2 measurements over time
+- `Scene`: public camera adapters, vehicle-only analytics, replay, and visibility/weather context
 - `Compare`: district and station side-by-side views
 
 The app is stateless by design. Runtime pages read committed JSON cache files from [`data/cache/official/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/data/cache/official) and [`data/cache/community/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/data/cache/community), so deployment does not require Prisma, SQLite, or any long-running backend.
@@ -21,10 +22,13 @@ The app is stateless by design. Runtime pages read committed JSON cache files fr
 - shadcn-style UI primitives
 - Leaflet
 - Recharts
+- Prisma + SQLite for the optional Scene subsystem
+- Python worker hooks for OpenCV + Ultralytics scene processing
 
 ## Features
 
 - Explorer map with district boundaries, official stations, community sensors, mobility events, parking sites, and GTFS transit stops
+- Scene map with Stuttgart-area camera markers, replay strip, and vehicle-only findings
 - Compare view for district and station context
 - German and English routes at `/de/...` and `/en/...`
 - Committed normalized data cache for stateless deploys
@@ -47,6 +51,12 @@ This makes the project a good fit for:
 
 The localized explorer, compare, and about routes are forced static at build time, so Vercel can serve them as prerendered output.
 
+`Scene` is intentionally separate from that baseline deployment model:
+
+- Explorer, Compare, and About still run from committed cache files only
+- Scene adds an optional local SQLite database plus a Python CV worker
+- If Scene is not initialized, `/de/scene` and `/en/scene` still render their shell and setup guidance
+
 ## Local setup
 
 ```bash
@@ -57,6 +67,59 @@ npm run dev
 ```
 
 Open [http://localhost:3000/de](http://localhost:3000/de).
+
+### Scene analytics
+
+The Scene MVP is local/dev-first and intentionally privacy-constrained:
+
+- vehicle-only tracking classes: car, truck, bus, motorcycle, bicycle
+- no person tracking, face recognition, pose analysis, or re-identification
+- raw snapshots are short-lived by default; derived metrics are the primary product
+
+Preview:
+
+![Scene analytics desktop preview](docs/screenshots/scene-preview-desktop.png)
+
+![Scene analytics mobile preview](docs/screenshots/scene-preview-mobile.png)
+
+Recommended setup:
+
+```bash
+npm install
+cp .env.example .env
+npm run db:generate
+npm run db:migrate
+npm run scene:seed
+npm run scene:fetch
+```
+
+Optional Python CV runtime:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r python/requirements-scene.txt
+```
+
+Scene routes:
+
+- `/de/scene`
+- `/en/scene`
+
+Scene commands:
+
+```bash
+npm run scene:seed
+npm run scene:fetch
+npm run scene:process -- --camera-slug=stuttgart-marktplatz
+```
+
+Current MVP limitations as of March 9, 2026:
+
+- VerkehrsInfo BW traffic cameras are adapterized but seeded inactive because the public camera images are currently deactivated
+- Stuttgart Airport webcams are adapterized but seeded inactive because the public webcam page is currently unavailable
+- Stuttgart city webcam ingestion is attempted automatically, but the public page can fall back to a local placeholder snapshot when direct image extraction fails
+- If Prisma migration tooling fails on unsupported Node versions, use the repo’s target runtime (`node:22`) or apply [`migration.sql`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/prisma/migrations/0001_scene_analytics/migration.sql) manually to the SQLite database
 
 ## Refreshing data
 
@@ -124,8 +187,11 @@ Workflow file: [ci.yml](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse
 - [`components/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/components): map, charts, shells, and UI
 - [`lib/data/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/lib/data): file-backed runtime data loaders
 - [`scripts/ingest/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/scripts/ingest): cache refresh scripts for public data sources
+- [`scripts/scene/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/scripts/scene): Scene camera seeding, snapshot fetch, and processing scripts
 - [`data/cache/official/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/data/cache/official): official normalized cache
 - [`data/cache/community/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/data/cache/community): community normalized cache
+- [`prisma/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/prisma): optional Scene database schema and migration
+- [`python/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/python): optional OpenCV / Ultralytics worker
 - [`messages/`](/Users/sebastianboehler/Documents/GitHub/stuttgart-pulse/messages): i18n dictionaries
 
 ## Useful commands
@@ -135,10 +201,15 @@ npm run dev
 npm run lint
 npm run typecheck
 npm run build
+npm run db:generate
+npm run db:migrate
 npm run ingest:official
 npm run ingest:community
 npm run ingest:all
 npm run ingest:uba
+npm run scene:seed
+npm run scene:fetch
+npm run scene:process -- --camera-slug=stuttgart-marktplatz
 npm run qa:visual
 ```
 

@@ -16,6 +16,8 @@
 # next.js
 /.next/
 /out/
+/public/scene/generated/
+/data/scene/
 
 # production
 /build
@@ -36,6 +38,10 @@ yarn-error.log*
 .env*
 .env
 !.env.example
+
+# prisma
+/prisma/*.db
+/prisma/*.db-journal
 
 # vercel
 .vercel

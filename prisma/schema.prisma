@@ -1,0 +1,64 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Camera {
+  id             String           @id @default(cuid())
+  slug           String           @unique
+  name           String
+  source         String
+  sourceType     String
+  pageUrl        String
+  imageUrl       String?
+  latitude       Float
+  longitude      Float
+  refreshSeconds Int
+  active         Boolean          @default(true)
+  configJson     Json?
+  createdAt      DateTime         @default(now())
+  updatedAt      DateTime         @updatedAt
+  snapshots      CameraSnapshot[]
+  metrics        CameraMetric[]
+}
+
+model CameraSnapshot {
+  id           String   @id @default(cuid())
+  cameraId     String
+  camera       Camera   @relation(fields: [cameraId], references: [id], onDelete: Cascade)
+  capturedAt   DateTime
+  storagePath  String
+  width        Int
+  height       Int
+  hash         String
+  expiresAt    DateTime?
+  metadataJson Json?
+  createdAt    DateTime @default(now())
+
+  @@index([cameraId, capturedAt(sort: Desc)])
+}
+
+model CameraMetric {
+  id              String   @id @default(cuid())
+  cameraId        String
+  camera          Camera   @relation(fields: [cameraId], references: [id], onDelete: Cascade)
+  capturedAt      DateTime
+  vehicleCount    Int      @default(0)
+  carCount        Int      @default(0)
+  truckCount      Int      @default(0)
+  busCount        Int      @default(0)
+  bikeCount       Int      @default(0)
+  motorcycleCount Int      @default(0)
+  motionIndex     Float?
+  visibilityScore Float?
+  weatherLabel    String?
+  anomalyScore    Float?
+  metadataJson    Json?
+  createdAt       DateTime @default(now())
+
+  @@index([cameraId, capturedAt(sort: Desc)])
+}

@@ -1,0 +1,16 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F4EDE1"/>
+  <rect x="52" y="52" width="1176" height="616" rx="36" fill="#FFFDF7" stroke="#D9D0C1"/>
+  <rect x="110" y="120" width="520" height="420" rx="24" fill="#E7D4B7"/>
+  <rect x="676" y="120" width="490" height="140" rx="24" fill="#D2EBE4"/>
+  <rect x="676" y="292" width="490" height="248" rx="24" fill="#17332F"/>
+  <rect x="676" y="568" width="260" height="36" rx="18" fill="#1F6F63"/>
+  <rect x="952" y="568" width="214" height="36" rx="18" fill="#EAE3D7"/>
+  <path d="M132 498C244 390 354 334 462 330C553 326 643 370 732 464L808 540H132V498Z" fill="#C5B49A"/>
+  <circle cx="280" cy="210" r="58" fill="#FFF2C7"/>
+  <path d="M820 362H1012" stroke="#9FE2D1" stroke-width="18" stroke-linecap="round"/>
+  <path d="M820 410H1070" stroke="#9FE2D1" stroke-width="18" stroke-linecap="round" opacity="0.72"/>
+  <path d="M820 458H965" stroke="#9FE2D1" stroke-width="18" stroke-linecap="round" opacity="0.45"/>
+  <text x="110" y="610" fill="#17332F" font-family="Arial, sans-serif" font-size="32" font-weight="700">City webcam placeholder</text>
+  <text x="110" y="650" fill="#5C5A55" font-family="Arial, sans-serif" font-size="22">Used when the public Marktplatz feed cannot be extracted without the consent barrier.</text>
+</svg>

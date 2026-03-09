@@ -1,0 +1,12 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#EEF2F0"/>
+  <rect x="56" y="56" width="1168" height="608" rx="36" fill="#FFFFFF" stroke="#D4DBD7"/>
+  <rect x="120" y="120" width="1040" height="420" rx="28" fill="#182426"/>
+  <path d="M210 428L368 330L560 330L728 428L1028 428" stroke="#A7B9B4" stroke-width="16" stroke-linecap="round"/>
+  <path d="M202 468H1078" stroke="#6EC2AF" stroke-width="10" stroke-linecap="round" stroke-dasharray="22 18"/>
+  <rect x="120" y="580" width="362" height="34" rx="17" fill="#D2EBE4"/>
+  <rect x="508" y="580" width="314" height="34" rx="17" fill="#E8ECEA"/>
+  <rect x="848" y="580" width="312" height="34" rx="17" fill="#E8ECEA"/>
+  <text x="120" y="642" fill="#17332F" font-family="Arial, sans-serif" font-size="30" font-weight="700">Traffic source seeded as inactive</text>
+  <text x="120" y="680" fill="#53615E" font-family="Arial, sans-serif" font-size="22">VerkehrsInfo BW camera images are currently deactivated on the public site.</text>
+</svg>

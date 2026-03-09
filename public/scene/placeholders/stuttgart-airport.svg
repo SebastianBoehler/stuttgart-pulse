@@ -1,0 +1,13 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#E9F2F7"/>
+  <rect x="56" y="56" width="1168" height="608" rx="36" fill="#F9FBFD" stroke="#CAD9E4"/>
+  <path d="M126 508H1154" stroke="#6B96C7" stroke-width="64" stroke-linecap="round"/>
+  <path d="M300 508H640" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-dasharray="20 20"/>
+  <path d="M700 508H1040" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-dasharray="20 20"/>
+  <path d="M690 292L842 370L690 448V392H444V348H690V292Z" fill="#1C486E"/>
+  <rect x="126" y="120" width="320" height="148" rx="28" fill="#163C66"/>
+  <rect x="476" y="120" width="678" height="148" rx="28" fill="#DCE8F4"/>
+  <text x="168" y="188" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="34" font-weight="700">Airport feed offline</text>
+  <text x="476" y="190" fill="#1C486E" font-family="Arial, sans-serif" font-size="24">Public webcam page currently reports unavailability.</text>
+  <text x="126" y="626" fill="#465D72" font-family="Arial, sans-serif" font-size="22">Scene keeps the adapter and metadata active for future re-enablement.</text>
+</svg>

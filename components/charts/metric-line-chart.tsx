@@ -22,10 +22,12 @@ type MetricLineChartProps = {
   }>;
   height?: number;
   locale?: Locale;
+  valueFormatter?: (value: number | string | null | undefined, dataKey?: string) => string;
 };
 
-export function MetricLineChart({ data, lines, height = 220, locale = "en" }: MetricLineChartProps) {
+export function MetricLineChart({ data, lines, height = 220, locale = "en", valueFormatter }: MetricLineChartProps) {
   const axisColor = "color-mix(in srgb, var(--foreground) 62%, transparent)";
+  const formatValue = valueFormatter ?? ((value) => (typeof value === "number" ? formatMetric(value, "µg/m³", locale) : String(value ?? "")));
 
   return (
     <div className="h-full w-full">
@@ -42,7 +44,9 @@ export function MetricLineChart({ data, lines, height = 220, locale = "en" }: Me
               boxShadow: "var(--shadow)",
               color: "var(--foreground)",
             }}
-            formatter={(value) => (typeof value === "number" ? formatMetric(value, "µg/m³", locale) : value ?? "")}
+            formatter={(value, _, item) =>
+              formatValue(value as number | string | null | undefined, typeof item.dataKey === "string" ? item.dataKey : undefined)
+            }
             labelFormatter={(_, payload) => {
               const timestamp = payload?.[0]?.payload?.timestamp;
               return typeof timestamp === "string" ? formatDateTime(timestamp, locale) : "";

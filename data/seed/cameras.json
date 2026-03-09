@@ -1,0 +1,99 @@
+[
+  {
+    "slug": "stuttgart-marktplatz",
+    "name": "Stuttgarter Marktplatz",
+    "source": "Stuttgart City",
+    "sourceType": "city",
+    "pageUrl": "https://www.stuttgart.de/tourismus/stadtportraet/stuttgarter-webcams",
+    "imageUrl": null,
+    "latitude": 48.7758,
+    "longitude": 9.1798,
+    "refreshSeconds": 60,
+    "active": true,
+    "configJson": {
+      "adapter": "stuttgart-city",
+      "tags": ["weather", "visibility", "crowd"],
+      "attribution": "Landeshauptstadt Stuttgart",
+      "placeholderPath": "/scene/placeholders/stuttgart-marktplatz.svg",
+      "countLine": null,
+      "countZone": null,
+      "roiMasks": [],
+      "fixtureMode": "placeholder"
+    }
+  },
+  {
+    "slug": "stuttgart-airport-apron",
+    "name": "Stuttgart Airport Apron",
+    "source": "Stuttgart Airport",
+    "sourceType": "airport",
+    "pageUrl": "https://www.stuttgart-airport.com/en/travellers-visitors/shop-experience/webcams",
+    "imageUrl": null,
+    "latitude": 48.6899,
+    "longitude": 9.2219,
+    "refreshSeconds": 300,
+    "active": false,
+    "configJson": {
+      "adapter": "stuttgart-airport",
+      "tags": ["airport", "weather", "visibility"],
+      "statusReason": "Official webcam page currently unavailable as of 2026-03-09.",
+      "attribution": "Stuttgart Airport",
+      "placeholderPath": "/scene/placeholders/stuttgart-airport.svg",
+      "countLine": null,
+      "countZone": null,
+      "roiMasks": [],
+      "fixtureMode": "placeholder"
+    }
+  },
+  {
+    "slug": "verkehrsinfo-a8-stuttgart-west",
+    "name": "A8 Westbound near Stuttgart",
+    "source": "VerkehrsInfo BW",
+    "sourceType": "traffic",
+    "pageUrl": "https://www.verkehrsinfo-bw.de/web/guest/verkehrskameras",
+    "imageUrl": null,
+    "latitude": 48.7725,
+    "longitude": 9.0422,
+    "refreshSeconds": 300,
+    "active": false,
+    "configJson": {
+      "adapter": "verkehrsinfo-bw",
+      "tags": ["traffic", "congestion"],
+      "statusReason": "Official traffic camera images are currently deactivated as of 2026-03-09.",
+      "attribution": "VerkehrsInfo BW",
+      "placeholderPath": "/scene/placeholders/verkehrsinfo-bw.svg",
+      "countLine": {
+        "start": [0.15, 0.62],
+        "end": [0.88, 0.62]
+      },
+      "countZone": [[0.1, 0.5], [0.9, 0.5], [0.9, 0.86], [0.1, 0.86]],
+      "roiMasks": [],
+      "fixtureMode": "synthetic"
+    }
+  },
+  {
+    "slug": "verkehrsinfo-b14-stuttgart-center",
+    "name": "B14 Stuttgart Center",
+    "source": "VerkehrsInfo BW",
+    "sourceType": "traffic",
+    "pageUrl": "https://www.verkehrsinfo-bw.de/web/guest/verkehrskameras",
+    "imageUrl": null,
+    "latitude": 48.7815,
+    "longitude": 9.1933,
+    "refreshSeconds": 300,
+    "active": false,
+    "configJson": {
+      "adapter": "verkehrsinfo-bw",
+      "tags": ["traffic", "congestion"],
+      "statusReason": "Official traffic camera images are currently deactivated as of 2026-03-09.",
+      "attribution": "VerkehrsInfo BW",
+      "placeholderPath": "/scene/placeholders/verkehrsinfo-bw.svg",
+      "countLine": {
+        "start": [0.22, 0.58],
+        "end": [0.86, 0.58]
+      },
+      "countZone": [[0.18, 0.45], [0.88, 0.45], [0.88, 0.84], [0.18, 0.84]],
+      "roiMasks": [],
+      "fixtureMode": "synthetic"
+    }
+  }
+]
